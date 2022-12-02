@@ -1,0 +1,1806 @@
+,Level,Date and Time,Source,Event ID,Task Category,
+1,Error,01-12-2022 10:48,Microsoft-Windows-WHEA-Logger,1,None,A fatal hardware error has occurred. A record describing the condition is contained in the data section of this event.
+2,Error,01-12-2022 10:47,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+3,Error,01-12-2022 10:47,EventLog,6008,None,The previous system shutdown at 10:44:41 AM on ?12/?1/?2022 was unexpected.
+4,Error,01-12-2022 10:44,Microsoft-Windows-Kernel-Power,86,-83,"The system was shut down due to a critical thermal event.             
+Shutdown Time = ?2022?-?12?-?01T05:14:45.759549300Z             
+ACPI Thermal Zone = \_TZ.TZ01             
+_CRT = 368K"
+5,Error,01-12-2022 10:44,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+6,Error,01-12-2022 10:44,Application Error,1000,Application Crashing Events,"Faulting application name: mfevtps.exe, version: 22.7.0.191, time stamp: 0x62b9312c
+Faulting module name: ntdll.dll, version: 10.0.22621.755, time stamp: 0x8a328c67
+Exception code: 0xc0000005
+Fault offset: 0x000000000003419a
+Faulting process id: 0x0xBB4
+Faulting application start time: 0x0x1D903FB1A2C9D4A
+Faulting application path: C:\Windows\system32\mfevtps.exe
+Faulting module path: C:\WINDOWS\SYSTEM32\ntdll.dll
+Report Id: 6b11bddb-83f6-49e1-be95-7ff1c5832db3
+Faulting package full name: 
+Faulting package-relative application ID: "
+7,Error,01-12-2022 10:33,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+8,Error,01-12-2022 10:32,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+9,Error,01-12-2022 10:32,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+10,Error,01-12-2022 10:31,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+11,Error,01-12-2022 10:04,Application Error,1000,Application Crashing Events,"Faulting application name: WhatsApp.exe, version: 0.0.0.0, time stamp: 0x6374cccb
+Faulting module name: WhatsApp.dll, version: 0.0.0.0, time stamp: 0x6374cccb
+Exception code: 0x00001007
+Fault offset: 0x0000000004affd76
+Faulting process id: 0x0x2FF4
+Faulting application start time: 0x0x1D9053567CB56B1
+Faulting application path: C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2245.5.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+Faulting module path: C:\Program Files\WindowsApps\5319275A.WhatsAppDesktop_2.2245.5.0_x64__cv1g1gvanyjgm\WhatsApp.dll
+Report Id: 820d7022-9212-43ff-a357-c15ec68de68d
+Faulting package full name: 5319275A.WhatsAppDesktop_2.2245.5.0_x64__cv1g1gvanyjgm
+Faulting package-relative application ID: App"
+12,Error,01-12-2022 09:50,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9WZDNCRFJ364-MICROSOFT.SKYPEAPP.
+13,Error,01-12-2022 09:01,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+14,Error,01-12-2022 09:01,Tcpip,4199,None,The system detected an address conflict for IP address 192.168.1.2 with the system having network hardware address 1A-02-16-21-C7-6F. Network operations on this system may be disrupted as a result.
+15,Error,01-12-2022 06:57,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+16,Error,01-12-2022 06:50,Microsoft-Windows-WLAN-AutoConfig,10000,None,"WLAN Extensibility Module has failed to start.
+
+Module Path: C:\WINDOWS\system32\IntelIHVRouter08.dll
+Error Code: 21
+"
+17,Error,01-12-2022 06:49,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+18,Error,30-11-2022 18:01,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+19,Error,30-11-2022 14:31,Netwtw08,5002,None,Intel(R) Wireless-AC 9462 : Has determined that the network adapter is not functioning properly.
+20,Error,30-11-2022 14:31,Netwtw08,5005,None,Intel(R) Wireless-AC 9462 : Has encountered an internal error and has failed.
+21,Error,30-11-2022 13:51,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+22,Error,30-11-2022 13:51,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+23,Error,30-11-2022 13:51,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+24,Error,30-11-2022 13:51,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+25,Error,30-11-2022 13:51,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+26,Error,30-11-2022 13:51,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+27,Error,30-11-2022 13:51,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+28,Error,30-11-2022 13:51,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+29,Error,30-11-2022 13:51,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+30,Error,30-11-2022 13:51,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+31,Error,30-11-2022 13:51,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+32,Error,30-11-2022 13:51,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+33,Error,30-11-2022 13:51,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+34,Error,30-11-2022 13:51,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+35,Error,30-11-2022 13:51,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+36,Error,30-11-2022 13:51,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+37,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+38,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+39,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+40,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+41,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+42,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+43,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+44,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+45,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+46,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+47,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+48,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+49,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+50,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+51,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+52,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+53,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+54,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+55,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+56,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+57,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+58,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+59,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+60,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+61,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+62,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+63,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+64,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+65,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+66,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+67,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+68,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+69,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+70,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+71,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+72,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+73,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+74,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+75,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+76,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+77,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+78,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+79,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+80,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+81,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+82,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+83,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+84,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+85,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+86,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+87,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+88,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+89,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+90,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+91,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+92,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+93,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+94,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+95,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+96,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+97,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+98,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+99,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+100,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+101,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+102,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+103,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+104,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+105,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+106,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+107,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+108,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+109,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+110,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+111,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+112,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+113,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+114,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+115,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+116,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+117,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+118,Error,30-11-2022 13:43,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+119,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+120,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+121,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+122,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+123,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+124,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+125,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+126,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+127,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+128,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+129,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+130,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+131,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+132,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+133,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+134,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+135,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+136,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+137,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+138,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+139,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+140,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+141,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+142,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+143,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+144,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+145,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+146,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+147,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+148,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+149,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+150,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+151,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+152,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+153,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+154,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+155,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+156,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+157,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+158,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+159,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+160,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+161,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+162,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+163,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+164,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+165,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+166,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+167,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+168,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+169,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+170,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+171,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+172,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+173,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+174,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+175,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+176,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+177,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+178,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+179,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+180,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+181,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+182,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+183,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+184,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+185,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+186,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+187,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+188,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+189,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+190,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+191,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+192,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+193,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+194,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+195,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+196,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+197,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+198,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+199,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+200,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+201,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+202,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+203,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+204,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+205,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+206,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+207,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+208,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+209,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+210,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+211,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+212,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+213,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+214,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+215,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+216,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+217,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+218,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+219,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+220,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+221,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+222,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+223,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+224,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+225,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+226,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+227,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+228,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+229,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+230,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+231,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+232,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+233,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+234,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+235,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+236,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+237,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+238,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+239,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+240,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+241,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+242,Error,30-11-2022 13:42,Microsoft-Windows-HAL,15,None,The iommu has detected an error.
+243,Error,30-11-2022 11:46,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+244,Error,30-11-2022 11:09,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+245,Error,30-11-2022 11:05,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+246,Error,29-11-2022 21:19,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+247,Error,29-11-2022 19:31,Application Error,1000,Application Crashing Events,"Faulting application name: mfevtps.exe, version: 22.7.0.191, time stamp: 0x62b9312c
+Faulting module name: CRYPT32.dll, version: 10.0.22621.674, time stamp: 0xf88e9ce4
+Exception code: 0xc0000005
+Fault offset: 0x000000000001ff72
+Faulting process id: 0x0x1774
+Faulting application start time: 0x0x1D8FE871E851854
+Faulting application path: C:\Windows\system32\mfevtps.exe
+Faulting module path: C:\WINDOWS\SYSTEM32\CRYPT32.dll
+Report Id: e60fa5a3-0d5c-4977-b32f-201895b4ff00
+Faulting package full name: 
+Faulting package-relative application ID: "
+248,Error,29-11-2022 16:22,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+249,Error,29-11-2022 12:03,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+250,Error,29-11-2022 09:43,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+251,Error,28-11-2022 21:16,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+252,Error,28-11-2022 17:15,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+253,Error,28-11-2022 12:43,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+254,Error,28-11-2022 11:23,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+255,Error,27-11-2022 15:27,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+256,Error,27-11-2022 11:03,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+257,Error,27-11-2022 10:50,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+258,Error,26-11-2022 22:21,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+259,Error,26-11-2022 15:52,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+260,Error,26-11-2022 11:40,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+261,Error,26-11-2022 09:44,Microsoft-Windows-DistributedCOM,10010,None,The server 5319275A.51895FA4EA97F_2.2247.4.0_x64__cv1g1gvanyjgm!App did not register with DCOM within the required timeout.
+262,Error,26-11-2022 09:44,Application Error,1000,Application Crashing Events,"Faulting application name: WhatsApp.exe, version: 0.0.0.0, time stamp: 0x63750a41
+Faulting module name: WhatsApp.dll, version: 0.0.0.0, time stamp: 0x63750a41
+Exception code: 0x00001007
+Fault offset: 0x0000000004b718f6
+Faulting process id: 0x0x3F04
+Faulting application start time: 0x0x1D9014C6946FB7E
+Faulting application path: C:\Program Files\WindowsApps\5319275A.51895FA4EA97F_2.2246.2.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+Faulting module path: C:\Program Files\WindowsApps\5319275A.51895FA4EA97F_2.2246.2.0_x64__cv1g1gvanyjgm\WhatsApp.dll
+Report Id: 4ca5ec36-ad5e-4c09-a187-8e5b92c6aff9
+Faulting package full name: 5319275A.51895FA4EA97F_2.2246.2.0_x64__cv1g1gvanyjgm
+Faulting package-relative application ID: App"
+263,Error,26-11-2022 09:36,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+264,Error,25-11-2022 22:43,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+265,Error,25-11-2022 19:41,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+266,Error,25-11-2022 18:13,Application Error,1000,Application Crashing Events,"Faulting application name: MFEAvSvc.exe, version: 26.5.124.0, time stamp: 0x634c48c1
+Faulting module name: ntdll.dll, version: 10.0.22621.755, time stamp: 0x8a328c67
+Exception code: 0xc0000374
+Fault offset: 0x000000000010c249
+Faulting process id: 0x0x1C2C
+Faulting application start time: 0x0x1D8FE8720B34A82
+Faulting application path: C:\Program Files\McAfee\MfeAV\MFEAvSvc.exe
+Faulting module path: C:\WINDOWS\SYSTEM32\ntdll.dll
+Report Id: 24a35568-2bfd-44b8-9563-c773e39485a8
+Faulting package full name: 
+Faulting package-relative application ID: "
+267,Error,25-11-2022 15:32,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+268,Error,25-11-2022 11:22,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+269,Error,25-11-2022 11:08,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NBDXK71NK08-5319275A.51895FA4EA97F.
+270,Error,25-11-2022 10:43,Application Error,1000,Application Crashing Events,"Faulting application name: WhatsApp.exe, version: 0.0.0.0, time stamp: 0x63750a41
+Faulting module name: WhatsApp.dll, version: 0.0.0.0, time stamp: 0x63750a41
+Exception code: 0x00001007
+Fault offset: 0x0000000004b718f6
+Faulting process id: 0x0x4F1C
+Faulting application start time: 0x0x1D9008B9DC759A1
+Faulting application path: C:\Program Files\WindowsApps\5319275A.51895FA4EA97F_2.2246.2.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+Faulting module path: C:\Program Files\WindowsApps\5319275A.51895FA4EA97F_2.2246.2.0_x64__cv1g1gvanyjgm\WhatsApp.dll
+Report Id: 780a0011-46ce-4c0a-9cff-d0c1d587a48b
+Faulting package full name: 5319275A.51895FA4EA97F_2.2246.2.0_x64__cv1g1gvanyjgm
+Faulting package-relative application ID: App"
+271,Error,25-11-2022 09:35,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NMPJ99VJBWV-Microsoft.YourPhone.
+272,Error,25-11-2022 09:30,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+273,Error,24-11-2022 23:37,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {7dbc7c76-99e4-42d3-8774-8830216fbc0d}"
+274,Error,24-11-2022 23:35,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {7dbc7c76-99e4-42d3-8774-8830216fbc0d}"
+275,Error,24-11-2022 17:49,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+276,Error,24-11-2022 14:59,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {7dbc7c76-99e4-42d3-8774-8830216fbc0d}"
+277,Error,24-11-2022 14:57,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {7dbc7c76-99e4-42d3-8774-8830216fbc0d}"
+278,Error,24-11-2022 11:59,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+279,Error,24-11-2022 09:20,Tcpip,4199,None,The system detected an address conflict for IP address 192.168.1.2 with the system having network hardware address D8-A3-15-58-BC-3B. Network operations on this system may be disrupted as a result.
+280,Error,23-11-2022 15:54,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+281,Error,23-11-2022 11:53,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+282,Error,23-11-2022 10:56,Microsoft-Windows-Hyper-V-VmSwitch,32,-1022,"Failed to connect NIC 50B8B2C5-5FCE-4924-A774-F4DB77E55A57--61186DBD-D471-4B33-8E83-794873E4658E (Friendly Name: ) to port 61186DBD-D471-4B33-8E83-794873E4658E (Friendly Name: ) on switch B95D0C5E-57D4-412B-B571-18A81A16E005 (Friendly Name: ), status = Object Name not found.. UniqueEvent = 80."
+283,Error,23-11-2022 09:50,Microsoft-Windows-Hyper-V-VmSwitch,32,-1022,"Failed to connect NIC 50B8B2C5-5FCE-4924-A774-F4DB77E55A57--61186DBD-D471-4B33-8E83-794873E4658E (Friendly Name: ) to port 61186DBD-D471-4B33-8E83-794873E4658E (Friendly Name: ) on switch B95D0C5E-57D4-412B-B571-18A81A16E005 (Friendly Name: ), status = Object Name not found.. UniqueEvent = 80."
+284,Error,23-11-2022 09:49,Microsoft-Windows-Hyper-V-VmSwitch,32,-1022,"Failed to connect NIC 50B8B2C5-5FCE-4924-A774-F4DB77E55A57--61186DBD-D471-4B33-8E83-794873E4658E (Friendly Name: ) to port 61186DBD-D471-4B33-8E83-794873E4658E (Friendly Name: ) on switch B95D0C5E-57D4-412B-B571-18A81A16E005 (Friendly Name: ), status = Object Name not found.. UniqueEvent = 80."
+285,Error,22-11-2022 20:58,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+286,Error,22-11-2022 20:58,EventLog,6008,None,The previous system shutdown at 8:57:25 PM on ?11/?22/?2022 was unexpected.
+287,Error,22-11-2022 20:56,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+288,Error,22-11-2022 20:53,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+289,Error,22-11-2022 20:52,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+290,Error,22-11-2022 20:52,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+291,Error,22-11-2022 20:49,Application Error,1000,Application Crashing Events,"Faulting application name: WavesSvc64.exe, version: 1.84.2.0, time stamp: 0x62fb1c60
+Faulting module name: WavesSvc64.exe, version: 1.84.2.0, time stamp: 0x62fb1c60
+Exception code: 0xc0000005
+Fault offset: 0x00000000000a188e
+Faulting process id: 0x0x1134
+Faulting application start time: 0x0x1D8FE85BCDAE0F8
+Faulting application path: C:\Windows\System32\DriverStore\FileRepository\wavesapo11de.inf_amd64_6a79bca33cf402a4\WavesSvc64.exe
+Faulting module path: C:\Windows\System32\DriverStore\FileRepository\wavesapo11de.inf_amd64_6a79bca33cf402a4\WavesSvc64.exe
+Report Id: 4267fee5-ca2f-43aa-aee1-495fb0faee23
+Faulting package full name: 
+Faulting package-relative application ID: "
+292,Error,22-11-2022 17:57,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D05: 9NBLGGH4MSV6-CanonicalGroupLimited.UbuntuonWindows.
+293,Error,22-11-2022 16:08,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+294,Error,22-11-2022 10:41,Service Control Manager,7046,None,"The following service has repeatedly stopped responding to service control requests: Windows Subsystem for Linux
+
+Contact the service vendor or the system administrator about whether to disable this service until the problem is identified.
+
+You may have to restart the computer in safe mode before you can disable the service."
+295,Error,22-11-2022 10:41,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+296,Error,22-11-2022 10:32,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NBDXK71NK08-5319275A.51895FA4EA97F.
+297,Error,22-11-2022 09:57,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+298,Error,22-11-2022 09:54,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+299,Error,22-11-2022 09:53,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+300,Error,22-11-2022 09:53,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+301,Error,21-11-2022 09:56,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+302,Error,21-11-2022 08:40,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+303,Error,21-11-2022 08:37,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+304,Error,21-11-2022 08:36,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+305,Error,21-11-2022 08:36,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+306,Error,20-11-2022 15:04,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+307,Error,20-11-2022 11:38,Microsoft-Windows-DistributedCOM,10010,None,The server {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} did not register with DCOM within the required timeout.
+308,Error,20-11-2022 11:38,Microsoft-Windows-DistributedCOM,10010,None,The server {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} did not register with DCOM within the required timeout.
+309,Error,20-11-2022 11:38,Microsoft-Windows-DistributedCOM,10010,None,The server {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} did not register with DCOM within the required timeout.
+310,Error,20-11-2022 11:38,Microsoft-Windows-DistributedCOM,10010,None,The server {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} did not register with DCOM within the required timeout.
+311,Error,20-11-2022 11:38,Microsoft-Windows-DistributedCOM,10010,None,The server {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} did not register with DCOM within the required timeout.
+312,Error,20-11-2022 11:31,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+313,Error,20-11-2022 10:28,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+314,Error,20-11-2022 09:54,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+315,Error,19-11-2022 18:58,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+316,Error,19-11-2022 10:12,Application Hang,1002,Hanging Events,"The program msrdc.exe version 1.2.3575.0 stopped interacting with Windows and was closed. To see if more information about the problem is available, check the problem history in the Security and Maintenance control panel.
+"
+317,Error,19-11-2022 09:10,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+318,Error,18-11-2022 11:35,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NKSQGP7F2NH-5319275A.WhatsAppDesktop.
+319,Error,18-11-2022 11:35,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NBDXK71NK08-5319275A.51895FA4EA97F.
+320,Error,18-11-2022 11:34,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9P9TQF7MRM4R-MicrosoftCorporationII.WindowsSubsystemforLinux.
+321,Error,18-11-2022 11:13,Tcpip,4199,None,The system detected an address conflict for IP address 192.168.1.3 with the system having network hardware address 1A-02-16-21-C7-6F. Network operations on this system may be disrupted as a result.
+322,Error,17-11-2022 22:28,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+323,Error,17-11-2022 10:47,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NKSQGP7F2NH-5319275A.WhatsAppDesktop.
+324,Error,17-11-2022 10:46,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9P9TQF7MRM4R-MicrosoftCorporationII.WindowsSubsystemforLinux.
+325,Error,17-11-2022 10:29,Microsoft-Windows-DNS-Client,1012,-1012,There was an error while attempting to read the local hosts file.
+326,Error,17-11-2022 10:28,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+327,Error,17-11-2022 10:27,Tcpip,4199,None,The system detected an address conflict for IP address 192.168.1.2 with the system having network hardware address 1A-02-16-21-C7-6F. Network operations on this system may be disrupted as a result.
+328,Error,16-11-2022 22:05,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+329,Error,16-11-2022 19:57,Netwtw08,5002,None,Intel(R) Wireless-AC 9462 : Has determined that the network adapter is not functioning properly.
+330,Error,16-11-2022 19:57,Netwtw08,5005,None,Intel(R) Wireless-AC 9462 : Has encountered an internal error and has failed.
+331,Error,16-11-2022 12:16,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9WZDNCRFJ364-MICROSOFT.SKYPEAPP.
+332,Error,16-11-2022 12:13,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NKSQGP7F2NH-5319275A.WhatsAppDesktop.
+333,Error,15-11-2022 21:56,Microsoft-Windows-DistributedCOM,10010,None,The server {7966B4D8-4FDC-4126-A10B-39A3209AD251} did not register with DCOM within the required timeout.
+334,Error,15-11-2022 21:55,Microsoft-Windows-DistributedCOM,10010,None,The server {7966B4D8-4FDC-4126-A10B-39A3209AD251} did not register with DCOM within the required timeout.
+335,Error,15-11-2022 21:55,Microsoft-Windows-DistributedCOM,10010,None,The server {7966B4D8-4FDC-4126-A10B-39A3209AD251} did not register with DCOM within the required timeout.
+336,Error,15-11-2022 21:55,Microsoft-Windows-DistributedCOM,10010,None,The server {7966B4D8-4FDC-4126-A10B-39A3209AD251} did not register with DCOM within the required timeout.
+337,Error,15-11-2022 20:18,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+338,Error,15-11-2022 16:20,Application Error,1000,Application Crashing Events,"Faulting application name: WhatsApp.exe, version: 0.0.0.0, time stamp: 0x636e6ce8
+Faulting module name: WhatsApp.dll, version: 0.0.0.0, time stamp: 0x636e6ce8
+Exception code: 0x00001007
+Fault offset: 0x0000000004b147d6
+Faulting process id: 0x0x3AB0
+Faulting application start time: 0x0x1D8F8DCFCC74BEE
+Faulting application path: C:\Program Files\WindowsApps\5319275A.51895FA4EA97F_2.2245.4.0_x64__cv1g1gvanyjgm\WhatsApp.exe
+Faulting module path: C:\Program Files\WindowsApps\5319275A.51895FA4EA97F_2.2245.4.0_x64__cv1g1gvanyjgm\WhatsApp.dll
+Report Id: cd4d6cd0-f97a-4cca-9460-2d3cc01b8add
+Faulting package full name: 5319275A.51895FA4EA97F_2.2245.4.0_x64__cv1g1gvanyjgm
+Faulting package-relative application ID: App"
+339,Error,15-11-2022 12:54,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+340,Error,15-11-2022 12:09,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+341,Error,15-11-2022 12:09,EventLog,6008,None,The previous system shutdown at 12:38:04 AM on ?11/?15/?2022 was unexpected.
+342,Error,14-11-2022 22:29,Application Error,1000,Application Crashing Events,"Faulting application name: mfevtps.exe, version: 22.7.0.191, time stamp: 0x62b9312c
+Faulting module name: CRYPT32.dll, version: 10.0.22621.674, time stamp: 0xf88e9ce4
+Exception code: 0xc0000005
+Fault offset: 0x000000000001ff72
+Faulting process id: 0x0x5FD8
+Faulting application start time: 0x0x1D8F6608DC193E6
+Faulting application path: C:\Windows\system32\mfevtps.exe
+Faulting module path: C:\WINDOWS\SYSTEM32\CRYPT32.dll
+Report Id: 1d97fa30-6ca7-4f6c-a283-d8b9b4af8798
+Faulting package full name: 
+Faulting package-relative application ID: "
+343,Error,14-11-2022 08:31,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NBDXK71NK08-5319275A.51895FA4EA97F.
+344,Error,14-11-2022 08:31,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NKSQGP7F2NH-5319275A.WhatsAppDesktop.
+345,Error,13-11-2022 09:10,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+346,Error,12-11-2022 21:40,Volsnap,36,None,The shadow copies of volume C: were aborted because the shadow copy storage could not grow due to a user imposed limit.
+347,Error,12-11-2022 16:29,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NBDXK71NK08-5319275A.51895FA4EA97F.
+348,Error,12-11-2022 16:26,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NKSQGP7F2NH-5319275A.WhatsAppDesktop.
+349,Error,12-11-2022 16:17,Microsoft-Windows-Hyper-V-VmSwitch,32,-1022,"Failed to connect NIC 91B0A64B-3A1B-4ADC-B345-B263F9E773E3--F96F982E-BFAF-458F-8CD8-9739359B3D4A (Friendly Name: ) to port F96F982E-BFAF-458F-8CD8-9739359B3D4A (Friendly Name: ) on switch B95D0C5E-57D4-412B-B571-18A81A16E005 (Friendly Name: ), status = Object Name not found.. UniqueEvent = 80."
+350,Error,12-11-2022 16:17,Microsoft-Windows-Hyper-V-VmSwitch,32,-1022,"Failed to connect NIC 91B0A64B-3A1B-4ADC-B345-B263F9E773E3--F96F982E-BFAF-458F-8CD8-9739359B3D4A (Friendly Name: ) to port F96F982E-BFAF-458F-8CD8-9739359B3D4A (Friendly Name: ) on switch B95D0C5E-57D4-412B-B571-18A81A16E005 (Friendly Name: ), status = Object Name not found.. UniqueEvent = 80."
+351,Error,12-11-2022 16:08,Microsoft-Windows-Hyper-V-VmSwitch,32,-1022,"Failed to connect NIC 91B0A64B-3A1B-4ADC-B345-B263F9E773E3--F96F982E-BFAF-458F-8CD8-9739359B3D4A (Friendly Name: ) to port F96F982E-BFAF-458F-8CD8-9739359B3D4A (Friendly Name: ) on switch B95D0C5E-57D4-412B-B571-18A81A16E005 (Friendly Name: ), status = Object Name not found.. UniqueEvent = 80."
+352,Error,12-11-2022 12:12,Microsoft-Windows-Hyper-V-VmSwitch,32,-1022,"Failed to connect NIC 91B0A64B-3A1B-4ADC-B345-B263F9E773E3--F96F982E-BFAF-458F-8CD8-9739359B3D4A (Friendly Name: ) to port F96F982E-BFAF-458F-8CD8-9739359B3D4A (Friendly Name: ) on switch B95D0C5E-57D4-412B-B571-18A81A16E005 (Friendly Name: ), status = Object Name not found.. UniqueEvent = 80."
+353,Error,12-11-2022 12:11,Microsoft-Windows-Hyper-V-VmSwitch,32,-1022,"Failed to connect NIC 91B0A64B-3A1B-4ADC-B345-B263F9E773E3--F96F982E-BFAF-458F-8CD8-9739359B3D4A (Friendly Name: ) to port F96F982E-BFAF-458F-8CD8-9739359B3D4A (Friendly Name: ) on switch B95D0C5E-57D4-412B-B571-18A81A16E005 (Friendly Name: ), status = Object Name not found.. UniqueEvent = 80."
+354,Error,12-11-2022 12:03,Microsoft-Windows-Hyper-V-VmSwitch,32,-1022,"Failed to connect NIC 91B0A64B-3A1B-4ADC-B345-B263F9E773E3--F96F982E-BFAF-458F-8CD8-9739359B3D4A (Friendly Name: ) to port F96F982E-BFAF-458F-8CD8-9739359B3D4A (Friendly Name: ) on switch B95D0C5E-57D4-412B-B571-18A81A16E005 (Friendly Name: ), status = Object Name not found.. UniqueEvent = 80."
+355,Error,12-11-2022 12:03,Microsoft-Windows-Hyper-V-VmSwitch,32,-1022,"Failed to connect NIC 91B0A64B-3A1B-4ADC-B345-B263F9E773E3--F96F982E-BFAF-458F-8CD8-9739359B3D4A (Friendly Name: ) to port F96F982E-BFAF-458F-8CD8-9739359B3D4A (Friendly Name: ) on switch B95D0C5E-57D4-412B-B571-18A81A16E005 (Friendly Name: ), status = Object Name not found.. UniqueEvent = 80."
+356,Error,12-11-2022 12:02,Application Error,1000,Application Crashing Events,"Faulting application name: mfevtps.exe, version: 22.7.0.191, time stamp: 0x62b9312c
+Faulting module name: ntdll.dll, version: 10.0.22621.755, time stamp: 0x8a328c67
+Exception code: 0xc0000005
+Fault offset: 0x000000000003419a
+Faulting process id: 0x0x51C0
+Faulting application start time: 0x0x1D8F5CA291A1049
+Faulting application path: C:\Windows\system32\mfevtps.exe
+Faulting module path: C:\WINDOWS\SYSTEM32\ntdll.dll
+Report Id: eb1e5e03-e873-44fc-93a2-befe5bb78934
+Faulting package full name: 
+Faulting package-relative application ID: "
+357,Error,12-11-2022 11:45,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+358,Error,12-11-2022 11:44,Tcpip,4199,None,The system detected an address conflict for IP address 192.168.1.3 with the system having network hardware address 1A-02-16-21-C7-6F. Network operations on this system may be disrupted as a result.
+359,Error,11-11-2022 18:05,Application Error,1000,Application Crashing Events,"Faulting application name: mfevtps.exe, version: 22.7.0.191, time stamp: 0x62b9312c
+Faulting module name: CRYPT32.dll, version: 10.0.22621.674, time stamp: 0xf88e9ce4
+Exception code: 0xc0000005
+Fault offset: 0x0000000000021347
+Faulting process id: 0x0x1760
+Faulting application start time: 0x0x1D8F52A17171E21
+Faulting application path: C:\Windows\system32\mfevtps.exe
+Faulting module path: C:\WINDOWS\SYSTEM32\CRYPT32.dll
+Report Id: f3a74b29-838c-4b4f-80ea-fadbb784246d
+Faulting package full name: 
+Faulting package-relative application ID: "
+360,Error,11-11-2022 17:59,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NBDXK71NK08-5319275A.51895FA4EA97F.
+361,Error,11-11-2022 17:59,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NMPJ99VJBWV-Microsoft.YourPhone.
+362,Error,11-11-2022 17:44,Application Hang,1002,Hanging Events,"The program msteams.exe version 22273.905.1632.1008 stopped interacting with Windows and was closed. To see if more information about the problem is available, check the problem history in the Security and Maintenance control panel.
+"
+363,Error,11-11-2022 12:15,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {cfc1f0ae-f29e-410d-9bec-a022a3ff835a}"
+364,Error,11-11-2022 12:12,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {cfc1f0ae-f29e-410d-9bec-a022a3ff835a}"
+365,Error,10-11-2022 23:00,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+366,Error,10-11-2022 23:00,EventLog,6008,None,The previous system shutdown at 10:58:59 PM on ?11/?10/?2022 was unexpected.
+367,Error,10-11-2022 15:30,Netwtw08,5002,None,Intel(R) Wireless-AC 9462 : Has determined that the network adapter is not functioning properly.
+368,Error,10-11-2022 15:30,Netwtw08,5005,None,Intel(R) Wireless-AC 9462 : Has encountered an internal error and has failed.
+369,Error,10-11-2022 11:08,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {9d5a9d54-65bc-4ff6-96e6-2b362c2b0bb5}"
+370,Error,10-11-2022 11:02,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {9d5a9d54-65bc-4ff6-96e6-2b362c2b0bb5}"
+371,Error,10-11-2022 09:05,Tcpip,4199,None,The system detected an address conflict for IP address 192.168.1.3 with the system having network hardware address 1A-02-16-21-C7-6F. Network operations on this system may be disrupted as a result.
+372,Error,09-11-2022 22:52,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+373,Error,09-11-2022 22:52,Service Control Manager,7001,None,"The Audiosrv service depends on the AudioEndpointBuilder service which failed to start because of the following error: 
+The service did not start due to a logon failure."
+374,Error,09-11-2022 22:52,Service Control Manager,7000,None,"The AudioEndpointBuilder service failed to start due to the following error: 
+The service did not start due to a logon failure."
+375,Error,09-11-2022 22:52,Service Control Manager,7038,None,"The AudioEndpointBuilder service was unable to log on as NT AUTHORITY\SYSTEM with the currently configured password due to the following error: 
+The request is not supported.
+
+To ensure that the service is configured properly, use the Services snap-in in Microsoft Management Console (MMC)."
+376,Error,09-11-2022 22:52,Service Control Manager,7000,None,"The gpsvc service failed to start due to the following error: 
+The service did not respond to the start or control request in a timely fashion."
+377,Error,09-11-2022 22:52,Service Control Manager,7000,None,"The Themes service failed to start due to the following error: 
+The service did not respond to the start or control request in a timely fashion."
+378,Error,09-11-2022 22:52,Service Control Manager,7001,None,"The igfxCUIService2.0.0.0 service depends on the SENS service which failed to start because of the following error: 
+The service did not start due to a logon failure."
+379,Error,09-11-2022 22:52,Service Control Manager,7000,None,"The SENS service failed to start due to the following error: 
+The service did not start due to a logon failure."
+380,Error,09-11-2022 22:52,Service Control Manager,7038,None,"The SENS service was unable to log on as NT AUTHORITY\SYSTEM with the currently configured password due to the following error: 
+The request is not supported.
+
+To ensure that the service is configured properly, use the Services snap-in in Microsoft Management Console (MMC)."
+381,Error,09-11-2022 22:52,Service Control Manager,7000,None,"The EventLog service failed to start due to the following error: 
+The service did not start due to a logon failure."
+382,Error,09-11-2022 22:52,Service Control Manager,7038,None,"The EventLog service was unable to log on as NT AUTHORITY\LocalService with the currently configured password due to the following error: 
+The request is not supported.
+
+To ensure that the service is configured properly, use the Services snap-in in Microsoft Management Console (MMC)."
+383,Error,09-11-2022 22:52,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+384,Error,09-11-2022 22:52,Service Control Manager,7023,None,"The NcbService service terminated with the following error: 
+A device attached to the system is not functioning."
+385,Error,09-11-2022 22:52,Microsoft-Windows-DistributedCOM,10005,None,"DCOM got error ""1068"" attempting to start the service netprofm with arguments ""Unavailable"" in order to run the server:
+{A47979D2-C419-11D9-A5B4-001185AD2B89}"
+386,Error,09-11-2022 22:52,Service Control Manager,7001,None,"The netprofm service depends on the nsi service which failed to start because of the following error: 
+The service did not respond to the start or control request in a timely fashion."
+387,Error,09-11-2022 22:52,Service Control Manager,7000,None,"The nsi service failed to start due to the following error: 
+The service did not respond to the start or control request in a timely fashion."
+388,Error,09-11-2022 22:52,Service Control Manager,7023,None,"The cplspcon service terminated with the following error: 
+Unspecified error"
+389,Error,09-11-2022 22:52,Service Control Manager,7001,None,"The UserManager service depends on the ProfSvc service which failed to start because of the following error: 
+The service did not respond to the start or control request in a timely fashion."
+390,Error,09-11-2022 22:52,Service Control Manager,7000,None,"The ProfSvc service failed to start due to the following error: 
+The service did not respond to the start or control request in a timely fashion."
+391,Error,09-11-2022 22:52,Service Control Manager,7000,None,"The FrameServerMonitor service failed to start due to the following error: 
+A system shutdown is in progress."
+392,Error,09-11-2022 22:50,Application Error,1000,Application Crashing Events,"Faulting application name: mfevtps.exe, version: 22.7.0.191, time stamp: 0x62b9312c
+Faulting module name: ntdll.dll, version: 10.0.22621.608, time stamp: 0xf2e8a5ab
+Exception code: 0xc0000005
+Fault offset: 0x000000000003415a
+Faulting process id: 0x0x4398
+Faulting application start time: 0x0x1D8F36E5BB27474
+Faulting application path: C:\Windows\system32\mfevtps.exe
+Faulting module path: C:\WINDOWS\SYSTEM32\ntdll.dll
+Report Id: cdbf015c-9e13-4362-a3f4-02e754b7f414
+Faulting package full name: 
+Faulting package-relative application ID: "
+393,Error,09-11-2022 22:50,Service Control Manager,7043,None,The Delivery Optimization service did not shut down properly after receiving a preshutdown control.
+394,Error,09-11-2022 22:50,Service Control Manager,7023,None,"The Windows Modules Installer service terminated with the following error: 
+The process cannot access the file because it is being used by another process."
+395,Error,09-11-2022 17:14,VSS,8193,None,"Volume Shadow Copy Service error: Unexpected error calling routine QueryFullProcessImageNameW.  hr = 0x80070006, The handle is invalid.
+. 
+
+Operation:
+   Executing Asynchronous Operation
+
+Context:
+   Current State: DoSnapshotSet"
+396,Error,09-11-2022 17:10,VSS,8193,None,"Volume Shadow Copy Service error: Unexpected error calling routine QueryFullProcessImageNameW.  hr = 0x80070006, The handle is invalid.
+. 
+
+Operation:
+   Executing Asynchronous Operation
+
+Context:
+   Current State: DoSnapshotSet"
+397,Error,09-11-2022 08:09,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+398,Error,08-11-2022 18:03,Application Error,1000,Application Crashing Events,"Faulting application name: mfevtps.exe, version: 22.7.0.191, time stamp: 0x62b9312c
+Faulting module name: CRYPT32.dll, version: 10.0.22621.674, time stamp: 0xf88e9ce4
+Exception code: 0xc0000005
+Fault offset: 0x000000000001ff72
+Faulting process id: 0x0x15CC
+Faulting application start time: 0x0x1D8F200B94A29A8
+Faulting application path: C:\Windows\system32\mfevtps.exe
+Faulting module path: C:\WINDOWS\SYSTEM32\CRYPT32.dll
+Report Id: b49ff77d-2949-414c-a4b8-62ebecc8347d
+Faulting package full name: 
+Faulting package-relative application ID: "
+399,Error,08-11-2022 17:37,Microsoft-Windows-WLAN-AutoConfig,10000,None,"WLAN Extensibility Module has failed to start.
+
+Module Path: C:\WINDOWS\system32\IntelIHVRouter08.dll
+Error Code: 21
+"
+400,Error,08-11-2022 17:36,Microsoft-Windows-Hyper-V-VmSwitch,32,-1022,"Failed to connect NIC 15761F26-2A9C-4D01-8744-82CD562D891C--5D4D76C1-59BD-43E6-8DB3-7242B13C0E57 (Friendly Name: ) to port 5D4D76C1-59BD-43E6-8DB3-7242B13C0E57 (Friendly Name: ) on switch B95D0C5E-57D4-412B-B571-18A81A16E005 (Friendly Name: ), status = Object Name not found.. UniqueEvent = 80."
+401,Error,08-11-2022 17:36,Microsoft-Windows-Hyper-V-VmSwitch,32,-1022,"Failed to connect NIC 15761F26-2A9C-4D01-8744-82CD562D891C--5D4D76C1-59BD-43E6-8DB3-7242B13C0E57 (Friendly Name: ) to port 5D4D76C1-59BD-43E6-8DB3-7242B13C0E57 (Friendly Name: ) on switch B95D0C5E-57D4-412B-B571-18A81A16E005 (Friendly Name: ), status = Object Name not found.. UniqueEvent = 80."
+402,Error,08-11-2022 15:21,Microsoft-Windows-Hyper-V-VmSwitch,32,-1022,"Failed to connect NIC 15761F26-2A9C-4D01-8744-82CD562D891C--5D4D76C1-59BD-43E6-8DB3-7242B13C0E57 (Friendly Name: ) to port 5D4D76C1-59BD-43E6-8DB3-7242B13C0E57 (Friendly Name: ) on switch B95D0C5E-57D4-412B-B571-18A81A16E005 (Friendly Name: ), status = Object Name not found.. UniqueEvent = 80."
+403,Error,08-11-2022 15:21,Microsoft-Windows-Hyper-V-VmSwitch,32,-1022,"Failed to connect NIC 15761F26-2A9C-4D01-8744-82CD562D891C--5D4D76C1-59BD-43E6-8DB3-7242B13C0E57 (Friendly Name: ) to port 5D4D76C1-59BD-43E6-8DB3-7242B13C0E57 (Friendly Name: ) on switch B95D0C5E-57D4-412B-B571-18A81A16E005 (Friendly Name: ), status = Object Name not found.. UniqueEvent = 80."
+404,Error,08-11-2022 15:06,Microsoft-Windows-Hyper-V-VmSwitch,32,-1022,"Failed to connect NIC 15761F26-2A9C-4D01-8744-82CD562D891C--5D4D76C1-59BD-43E6-8DB3-7242B13C0E57 (Friendly Name: ) to port 5D4D76C1-59BD-43E6-8DB3-7242B13C0E57 (Friendly Name: ) on switch B95D0C5E-57D4-412B-B571-18A81A16E005 (Friendly Name: ), status = Object Name not found.. UniqueEvent = 80."
+405,Error,08-11-2022 15:06,Microsoft-Windows-Hyper-V-VmSwitch,32,-1022,"Failed to connect NIC 15761F26-2A9C-4D01-8744-82CD562D891C--5D4D76C1-59BD-43E6-8DB3-7242B13C0E57 (Friendly Name: ) to port 5D4D76C1-59BD-43E6-8DB3-7242B13C0E57 (Friendly Name: ) on switch B95D0C5E-57D4-412B-B571-18A81A16E005 (Friendly Name: ), status = Object Name not found.. UniqueEvent = 80."
+406,Error,08-11-2022 11:04,Microsoft-Windows-Hyper-V-VmSwitch,32,-1022,"Failed to connect NIC 15761F26-2A9C-4D01-8744-82CD562D891C--5D4D76C1-59BD-43E6-8DB3-7242B13C0E57 (Friendly Name: ) to port 5D4D76C1-59BD-43E6-8DB3-7242B13C0E57 (Friendly Name: ) on switch B95D0C5E-57D4-412B-B571-18A81A16E005 (Friendly Name: ), status = Object Name not found.. UniqueEvent = 80."
+407,Error,08-11-2022 11:04,Microsoft-Windows-Hyper-V-VmSwitch,32,-1022,"Failed to connect NIC 15761F26-2A9C-4D01-8744-82CD562D891C--5D4D76C1-59BD-43E6-8DB3-7242B13C0E57 (Friendly Name: ) to port 5D4D76C1-59BD-43E6-8DB3-7242B13C0E57 (Friendly Name: ) on switch B95D0C5E-57D4-412B-B571-18A81A16E005 (Friendly Name: ), status = Object Name not found.. UniqueEvent = 80."
+408,Error,08-11-2022 10:57,Microsoft-Windows-Hyper-V-VmSwitch,32,-1022,"Failed to connect NIC 15761F26-2A9C-4D01-8744-82CD562D891C--5D4D76C1-59BD-43E6-8DB3-7242B13C0E57 (Friendly Name: ) to port 5D4D76C1-59BD-43E6-8DB3-7242B13C0E57 (Friendly Name: ) on switch B95D0C5E-57D4-412B-B571-18A81A16E005 (Friendly Name: ), status = Object Name not found.. UniqueEvent = 80."
+409,Error,08-11-2022 10:57,Microsoft-Windows-Hyper-V-VmSwitch,32,-1022,"Failed to connect NIC 15761F26-2A9C-4D01-8744-82CD562D891C--5D4D76C1-59BD-43E6-8DB3-7242B13C0E57 (Friendly Name: ) to port 5D4D76C1-59BD-43E6-8DB3-7242B13C0E57 (Friendly Name: ) on switch B95D0C5E-57D4-412B-B571-18A81A16E005 (Friendly Name: ), status = Object Name not found.. UniqueEvent = 80."
+410,Error,08-11-2022 08:48,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+411,Error,08-11-2022 08:44,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+412,Error,07-11-2022 17:30,Netwtw08,5002,None,Intel(R) Wireless-AC 9462 : Has determined that the network adapter is not functioning properly.
+413,Error,07-11-2022 17:30,Netwtw08,5005,None,Intel(R) Wireless-AC 9462 : Has encountered an internal error and has failed.
+414,Error,07-11-2022 16:42,Netwtw08,5002,None,Intel(R) Wireless-AC 9462 : Has determined that the network adapter is not functioning properly.
+415,Error,07-11-2022 16:42,Netwtw08,5005,None,Intel(R) Wireless-AC 9462 : Has encountered an internal error and has failed.
+416,Error,07-11-2022 13:20,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NBDXK71NK08-5319275A.51895FA4EA97F.
+417,Error,07-11-2022 09:59,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {27eedfdf-01f2-47dc-9d84-65185ba50a69}"
+418,Error,07-11-2022 09:56,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {27eedfdf-01f2-47dc-9d84-65185ba50a69}"
+419,Error,06-11-2022 22:26,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+420,Error,06-11-2022 22:25,Service Control Manager,7043,None,The Host Network Service service did not shut down properly after receiving a preshutdown control.
+421,Error,06-11-2022 22:25,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+422,Error,06-11-2022 22:24,Microsoft-Windows-DistributedCOM,10010,None,The server {72075277-282A-420A-8C25-62BFCB94C71E} did not register with DCOM within the required timeout.
+423,Error,06-11-2022 22:23,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+424,Error,06-11-2022 22:22,Service Control Manager,7043,None,The Host Network Service service did not shut down properly after receiving a preshutdown control.
+425,Error,06-11-2022 22:22,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+426,Error,06-11-2022 22:21,Application Error,1000,Application Crashing Events,"Faulting application name: mfevtps.exe, version: 22.7.0.191, time stamp: 0x62b9312c
+Faulting module name: CRYPT32.dll, version: 10.0.22621.674, time stamp: 0xf88e9ce4
+Exception code: 0xc0000005
+Fault offset: 0x000000000001ff72
+Faulting process id: 0x0x1544
+Faulting application start time: 0x0x1D8F0E5921C35C7
+Faulting application path: C:\Windows\system32\mfevtps.exe
+Faulting module path: C:\WINDOWS\SYSTEM32\CRYPT32.dll
+Report Id: 892456d8-1ba9-473a-8567-dab4612cbf54
+Faulting package full name: 
+Faulting package-relative application ID: "
+427,Error,06-11-2022 19:37,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {ece2feab-871f-487b-9891-d410a1b3f3a0}"
+428,Error,06-11-2022 19:34,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {ece2feab-871f-487b-9891-d410a1b3f3a0}"
+429,Error,06-11-2022 18:12,Netwtw08,5002,None,Intel(R) Wireless-AC 9462 : Has determined that the network adapter is not functioning properly.
+430,Error,06-11-2022 11:16,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+431,Error,06-11-2022 10:56,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9MSSGKG348SP-MicrosoftWindows.Client.WebExperience.
+432,Error,06-11-2022 10:28,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+433,Error,05-11-2022 16:28,Microsoft-Windows-DistributedCOM,10010,None,The server microsoft.windowscommunicationsapps_16005.14326.20970.0_x64__8wekyb3d8bbwe!microsoft.windowslive.calendar.AppXwkn9j84yh1kvnt49k5r8h6y1ecsv09hs.mca did not register with DCOM within the required timeout.
+434,Error,05-11-2022 16:28,Tcpip,4199,None,The system detected an address conflict for IP address 192.168.1.2 with the system having network hardware address 1A-02-16-21-C7-6F. Network operations on this system may be disrupted as a result.
+435,Error,05-11-2022 13:50,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {ece2feab-871f-487b-9891-d410a1b3f3a0}"
+436,Error,05-11-2022 13:46,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {ece2feab-871f-487b-9891-d410a1b3f3a0}"
+437,Error,05-11-2022 12:39,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+438,Error,05-11-2022 12:39,EventLog,6008,None,The previous system shutdown at 4:34:21 PM on ?11/?4/?2022 was unexpected.
+439,Error,05-11-2022 12:39,Microsoft-Windows-Kernel-Boot,29,None,Windows failed fast startup with error status 0xC00000D4.
+440,Error,04-11-2022 11:47,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {b03fe199-e90b-48df-82bf-f0eab929816c}"
+441,Error,04-11-2022 11:44,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {b03fe199-e90b-48df-82bf-f0eab929816c}"
+442,Error,04-11-2022 10:38,Application Error,1000,Application Crashing Events,"Faulting application name: WavesSvc64.exe, version: 1.66.5.0, time stamp: 0x618a560b
+Faulting module name: WavesSvc64.exe, version: 1.66.5.0, time stamp: 0x618a560b
+Exception code: 0xc0000005
+Fault offset: 0x00000000000841ee
+Faulting process id: 0x0x199C
+Faulting application start time: 0x0x1D8F00B64E415D3
+Faulting application path: C:\Windows\System32\DriverStore\FileRepository\wavesapo11de.inf_amd64_6ef00ed1517c6ebe\WavesSvc64.exe
+Faulting module path: C:\Windows\System32\DriverStore\FileRepository\wavesapo11de.inf_amd64_6ef00ed1517c6ebe\WavesSvc64.exe
+Report Id: 040b7883-a648-4c36-9e98-3e4351c11c6a
+Faulting package full name: 
+Faulting package-relative application ID: "
+443,Error,04-11-2022 10:37,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+444,Error,04-11-2022 10:37,EventLog,6008,None,The previous system shutdown at 9:20:32 PM on ?11/?3/?2022 was unexpected.
+445,Error,03-11-2022 21:20,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+446,Error,02-11-2022 22:18,Service Control Manager,7043,None,The Host Network Service service did not shut down properly after receiving a preshutdown control.
+447,Error,02-11-2022 22:18,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+448,Error,02-11-2022 22:15,Application Error,1000,Application Crashing Events,"Faulting application name: mfevtps.exe, version: 22.7.0.191, time stamp: 0x62b9312c
+Faulting module name: CRYPT32.dll, version: 10.0.22621.674, time stamp: 0xf88e9ce4
+Exception code: 0xc0000005
+Fault offset: 0x000000000001ff72
+Faulting process id: 0x0x60EC
+Faulting application start time: 0x0x1D8EDF471917891
+Faulting application path: C:\Windows\system32\mfevtps.exe
+Faulting module path: C:\WINDOWS\SYSTEM32\CRYPT32.dll
+Report Id: 5fc8ccb9-e319-45f2-85ff-47f40822954d
+Faulting package full name: 
+Faulting package-relative application ID: "
+449,Error,02-11-2022 15:45,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NKSQGP7F2NH-5319275A.WhatsAppDesktop.
+450,Error,02-11-2022 08:57,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+451,Error,01-11-2022 22:05,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {76f348c9-b70e-4892-89fa-dcfd78a8957b}"
+452,Error,01-11-2022 22:02,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {76f348c9-b70e-4892-89fa-dcfd78a8957b}"
+453,Error,01-11-2022 18:48,Application Error,1000,Application Crashing Events,"Faulting application name: mfevtps.exe, version: 22.7.0.191, time stamp: 0x62b9312c
+Faulting module name: CRYPT32.dll, version: 10.0.22621.674, time stamp: 0xf88e9ce4
+Exception code: 0xc0000005
+Fault offset: 0x000000000001ff72
+Faulting process id: 0x0x157C
+Faulting application start time: 0x0x1D8EAF1A58BFA52
+Faulting application path: C:\Windows\system32\mfevtps.exe
+Faulting module path: C:\WINDOWS\SYSTEM32\CRYPT32.dll
+Report Id: e4e01f4f-3032-4479-910a-17ccc961f0a5
+Faulting package full name: 
+Faulting package-relative application ID: "
+454,Error,01-11-2022 12:32,Tcpip,4199,None,The system detected an address conflict for IP address 192.168.1.3 with the system having network hardware address D8-A3-15-58-BC-3B. Network operations on this system may be disrupted as a result.
+455,Error,01-11-2022 10:22,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+456,Error,31-10-2022 21:25,Service Control Manager,7034,None,The Docker Desktop Service service terminated unexpectedly.  It has done this 1 time(s).
+457,Error,31-10-2022 11:19,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {76f348c9-b70e-4892-89fa-dcfd78a8957b}"
+458,Error,31-10-2022 11:17,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {76f348c9-b70e-4892-89fa-dcfd78a8957b}"
+459,Error,31-10-2022 10:10,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+460,Error,30-10-2022 08:34,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {76f348c9-b70e-4892-89fa-dcfd78a8957b}"
+461,Error,30-10-2022 08:27,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {76f348c9-b70e-4892-89fa-dcfd78a8957b}"
+462,Error,30-10-2022 08:21,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+463,Error,29-10-2022 19:03,Tcpip,4199,None,The system detected an address conflict for IP address 192.168.1.2 with the system having network hardware address 1A-02-16-21-C7-6F. Network operations on this system may be disrupted as a result.
+464,Error,28-10-2022 22:50,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+465,Error,28-10-2022 22:49,Service Control Manager,7031,None,The Host Network Service service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 120000 milliseconds: Restart the service.
+466,Error,28-10-2022 22:49,Microsoft-Windows-Kernel-Power,86,-83,"The system was shut down due to a critical thermal event.             
+Shutdown Time = ?2022?-?10?-?28T17:19:47.243359400Z             
+ACPI Thermal Zone = \_TZ.TZ01             
+_CRT = 368K"
+467,Error,28-10-2022 22:49,Application Error,1000,Application Crashing Events,"Faulting application name: svchost.exe_hns, version: 10.0.22621.1, time stamp: 0x6dc5c2a5
+Faulting module name: hostnetsvc.dll, version: 10.0.22621.674, time stamp: 0xcb5dddd2
+Exception code: 0xc0000005
+Fault offset: 0x000000000005b71f
+Faulting process id: 0x0xA48
+Faulting application start time: 0x0x1D8EAF17620AAEC
+Faulting application path: C:\WINDOWS\system32\svchost.exe
+Faulting module path: c:\windows\system32\hostnetsvc.dll
+Report Id: d1bb8839-b44f-4f76-9078-aab8f16b7bae
+Faulting package full name: 
+Faulting package-relative application ID: "
+468,Error,28-10-2022 22:49,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+469,Error,28-10-2022 22:48,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+470,Error,28-10-2022 22:48,EventLog,6008,None,The previous system shutdown at 10:47:27 PM on ?10/?28/?2022 was unexpected.
+471,Error,28-10-2022 22:47,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+472,Error,28-10-2022 13:58,Tcpip,4199,None,The system detected an address conflict for IP address 192.168.1.2 with the system having network hardware address 1A-02-16-21-C7-6F. Network operations on this system may be disrupted as a result.
+473,Error,28-10-2022 10:51,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NCBCSZSJRSB-SpotifyAB.SpotifyMusic.
+474,Error,28-10-2022 10:41,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NKSQGP7F2NH-5319275A.WhatsAppDesktop.
+475,Error,27-10-2022 14:59,Application Error,1000,Application Crashing Events,"Faulting application name: AUDIODG.EXE, version: 10.0.22621.608, time stamp: 0x7a4182d8
+Faulting module name: KERNELBASE.dll, version: 10.0.22621.608, time stamp: 0x4769d08d
+Exception code: 0xc0000005
+Fault offset: 0x000000000008fb0c
+Faulting process id: 0x0x70B0
+Faulting application start time: 0x0x1D8E9E6941F6EDA
+Faulting application path: C:\WINDOWS\system32\AUDIODG.EXE
+Faulting module path: C:\WINDOWS\System32\KERNELBASE.dll
+Report Id: 45fb7b9a-e5fb-4035-a8c4-e4f65ecf299e
+Faulting package full name: 
+Faulting package-relative application ID: "
+476,Error,27-10-2022 07:45,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+477,Error,26-10-2022 22:31,Microsoft-Windows-DistributedCOM,10010,None,The server {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} did not register with DCOM within the required timeout.
+478,Error,26-10-2022 22:31,Microsoft-Windows-DistributedCOM,10010,None,The server {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} did not register with DCOM within the required timeout.
+479,Error,26-10-2022 22:31,Microsoft-Windows-DistributedCOM,10010,None,The server {AB8902B4-09CA-4BB6-B78D-A8F59079A8D5} did not register with DCOM within the required timeout.
+480,Error,26-10-2022 22:31,Microsoft-Windows-DistributedCOM,10010,None,The server Microsoft.AAD.BrokerPlugin_1000.19580.1000.0_neutral_neutral_cw5n1h2txyewy!Windows.Security.Authentication.Web.Core.BackgroundGetTokenTask.ClassId.WebAccountProvider did not register with DCOM within the required timeout.
+481,Error,26-10-2022 12:30,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+482,Error,26-10-2022 10:55,Microsoft-Windows-DistributedCOM,10010,None,The server {A463FCB9-6B1C-4E0D-A80B-A2CA7999E25D} did not register with DCOM within the required timeout.
+483,Error,26-10-2022 10:55,Microsoft-Windows-DistributedCOM,10010,None,The server {A463FCB9-6B1C-4E0D-A80B-A2CA7999E25D} did not register with DCOM within the required timeout.
+484,Error,26-10-2022 10:55,Microsoft-Windows-DistributedCOM,10010,None,The server {A463FCB9-6B1C-4E0D-A80B-A2CA7999E25D} did not register with DCOM within the required timeout.
+485,Error,26-10-2022 08:56,Application Hang,1002,Hanging Events,"The program msteams.exe version 22260.203.1605.4995 stopped interacting with Windows and was closed. To see if more information about the problem is available, check the problem history in the Security and Maintenance control panel.
+"
+486,Error,26-10-2022 08:36,Application Error,1000,Application Crashing Events,"Faulting application name: mfevtps.exe, version: 22.7.0.191, time stamp: 0x62b9312c
+Faulting module name: CRYPT32.dll, version: 10.0.22621.674, time stamp: 0xf88e9ce4
+Exception code: 0xc0000005
+Fault offset: 0x0000000000021347
+Faulting process id: 0x0x3768
+Faulting application start time: 0x0x1D8E6D9FAB6ACC7
+Faulting application path: C:\Windows\system32\mfevtps.exe
+Faulting module path: C:\WINDOWS\SYSTEM32\CRYPT32.dll
+Report Id: 785f3fd2-c2db-4679-92a7-05c32732cbba
+Faulting package full name: 
+Faulting package-relative application ID: "
+487,Error,26-10-2022 08:34,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+488,Error,26-10-2022 08:30,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+489,Error,25-10-2022 21:48,Application Hang,1002,Hanging Events,"The program msteams.exe version 22273.905.1632.1008 stopped interacting with Windows and was closed. To see if more information about the problem is available, check the problem history in the Security and Maintenance control panel.
+"
+490,Error,25-10-2022 21:21,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+491,Error,25-10-2022 15:49,Application Hang,1002,Hanging Events,"The program msteams.exe version 22260.203.1605.4995 stopped interacting with Windows and was closed. To see if more information about the problem is available, check the problem history in the Security and Maintenance control panel.
+"
+492,Error,25-10-2022 10:36,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+493,Error,25-10-2022 10:19,Volsnap,36,None,The shadow copies of volume C: were aborted because the shadow copy storage could not grow due to a user imposed limit.
+494,Error,25-10-2022 10:17,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9MSSGKG348SP-MicrosoftWindows.Client.WebExperience.
+495,Error,25-10-2022 09:55,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NKSQGP7F2NH-5319275A.WhatsAppDesktop.
+496,Error,25-10-2022 09:48,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9P9TQF7MRM4R-MicrosoftCorporationII.WindowsSubsystemforLinux.
+497,Error,25-10-2022 09:20,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+498,Error,24-10-2022 11:49,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9P9TQF7MRM4R-MicrosoftCorporationII.WindowsSubsystemforLinux.
+499,Error,24-10-2022 11:01,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NKSQGP7F2NH-5319275A.WhatsAppDesktop.
+500,Error,24-10-2022 09:04,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+501,Error,23-10-2022 17:51,Application Error,1000,Application Crashing Events,"Faulting application name: mfevtps.exe, version: 22.7.0.191, time stamp: 0x62b9312c
+Faulting module name: CRYPT32.dll, version: 10.0.22621.674, time stamp: 0xf88e9ce4
+Exception code: 0xc0000005
+Fault offset: 0x000000000001ff72
+Faulting process id: 0x0x1738
+Faulting application start time: 0x0x1D8E43D586A42DC
+Faulting application path: C:\Windows\system32\mfevtps.exe
+Faulting module path: C:\WINDOWS\SYSTEM32\CRYPT32.dll
+Report Id: bb2e4f4a-138c-4aca-a984-4c3d314441b5
+Faulting package full name: 
+Faulting package-relative application ID: "
+502,Error,23-10-2022 13:49,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+503,Error,23-10-2022 13:48,Tcpip,4199,None,The system detected an address conflict for IP address 192.168.1.2 with the system having network hardware address D8-A3-15-58-BC-3B. Network operations on this system may be disrupted as a result.
+504,Error,23-10-2022 09:32,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+505,Error,22-10-2022 09:33,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+506,Error,22-10-2022 09:33,Tcpip,4199,None,The system detected an address conflict for IP address 192.168.1.3 with the system having network hardware address 1A-02-16-21-C7-6F. Network operations on this system may be disrupted as a result.
+507,Error,21-10-2022 18:49,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+508,Error,21-10-2022 18:24,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NMPJ99VJBWV-Microsoft.YourPhone.
+509,Error,21-10-2022 18:23,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9MSSGKG348SP-MicrosoftWindows.Client.WebExperience.
+510,Error,21-10-2022 16:28,Netwtw08,5002,None,Intel(R) Wireless-AC 9462 : Has determined that the network adapter is not functioning properly.
+511,Error,21-10-2022 16:28,Netwtw08,5005,None,Intel(R) Wireless-AC 9462 : Has encountered an internal error and has failed.
+512,Error,21-10-2022 10:01,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+513,Error,21-10-2022 09:56,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+514,Error,20-10-2022 19:15,Tcpip,4199,None,The system detected an address conflict for IP address 192.168.1.3 with the system having network hardware address D8-A3-15-58-BC-3B. Network operations on this system may be disrupted as a result.
+515,Error,20-10-2022 18:08,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {fb85a87e-b49b-468e-9db4-c75e9046b996}"
+516,Error,20-10-2022 18:05,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {fb85a87e-b49b-468e-9db4-c75e9046b996}"
+517,Error,20-10-2022 17:34,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+518,Error,20-10-2022 15:19,Netwtw08,5002,None,Intel(R) Wireless-AC 9462 : Has determined that the network adapter is not functioning properly.
+519,Error,20-10-2022 15:19,Netwtw08,5005,None,Intel(R) Wireless-AC 9462 : Has encountered an internal error and has failed.
+520,Error,20-10-2022 10:05,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+521,Error,20-10-2022 10:04,Application Error,1000,Application Crashing Events,"Faulting application name: WavesSysSvc64.exe, version: 1.55.4.0, time stamp: 0x618a55d2
+Faulting module name: WavesSysSvc64.exe, version: 1.55.4.0, time stamp: 0x618a55d2
+Exception code: 0xc0000005
+Fault offset: 0x0000000000033fea
+Faulting process id: 0x0x111C
+Faulting application start time: 0x0x1D8E3D67518F3A8
+Faulting application path: C:\WINDOWS\System32\DriverStore\FileRepository\wavesapo11de.inf_amd64_6ef00ed1517c6ebe\WavesSysSvc64.exe
+Faulting module path: C:\WINDOWS\System32\DriverStore\FileRepository\wavesapo11de.inf_amd64_6ef00ed1517c6ebe\WavesSysSvc64.exe
+Report Id: 756234c3-14e6-4b06-9585-f52458e70e16
+Faulting package full name: 
+Faulting package-relative application ID: "
+522,Error,20-10-2022 10:04,Microsoft-Windows-DistributedCOM,10010,None,The server {A9B7A1B9-0671-405C-95F1-E0612CB4CE7E} did not register with DCOM within the required timeout.
+523,Error,20-10-2022 09:52,Service Control Manager,7034,None,The Docker Desktop Service service terminated unexpectedly.  It has done this 1 time(s).
+524,Error,20-10-2022 09:22,Microsoft-Windows-WLAN-AutoConfig,10000,None,"WLAN Extensibility Module has failed to start.
+
+Module Path: C:\WINDOWS\system32\IntelIHVRouter08.dll
+Error Code: 21
+"
+525,Error,20-10-2022 09:22,Microsoft-Windows-Hyper-V-VmSwitch,32,-1022,"Failed to connect NIC 4249F504-0D6F-4227-AD80-11FB9EFBFA41--8C790C3A-109B-42B7-B113-F38EABD29868 (Friendly Name: ) to port 8C790C3A-109B-42B7-B113-F38EABD29868 (Friendly Name: ) on switch B95D0C5E-57D4-412B-B571-18A81A16E005 (Friendly Name: ), status = Object Name not found.. UniqueEvent = 80."
+526,Error,20-10-2022 09:21,Microsoft-Windows-Hyper-V-VmSwitch,32,-1022,"Failed to connect NIC 4249F504-0D6F-4227-AD80-11FB9EFBFA41--8C790C3A-109B-42B7-B113-F38EABD29868 (Friendly Name: ) to port 8C790C3A-109B-42B7-B113-F38EABD29868 (Friendly Name: ) on switch B95D0C5E-57D4-412B-B571-18A81A16E005 (Friendly Name: ), status = Object Name not found.. UniqueEvent = 80."
+527,Error,20-10-2022 09:07,Microsoft-Windows-Hyper-V-VmSwitch,32,-1022,"Failed to connect NIC 4249F504-0D6F-4227-AD80-11FB9EFBFA41--8C790C3A-109B-42B7-B113-F38EABD29868 (Friendly Name: ) to port 8C790C3A-109B-42B7-B113-F38EABD29868 (Friendly Name: ) on switch B95D0C5E-57D4-412B-B571-18A81A16E005 (Friendly Name: ), status = Object Name not found.. UniqueEvent = 80."
+528,Error,20-10-2022 09:00,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+529,Error,19-10-2022 21:48,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+530,Error,19-10-2022 21:48,EventLog,6008,None,The previous system shutdown at 9:46:35 PM on ?10/?19/?2022 was unexpected.
+531,Error,19-10-2022 21:43,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+532,Error,19-10-2022 21:43,EventLog,6008,None,The previous system shutdown at 9:41:43 PM on ?10/?19/?2022 was unexpected.
+533,Error,19-10-2022 21:42,Microsoft-Windows-WLAN-AutoConfig,10000,None,"WLAN Extensibility Module has failed to start.
+
+Module Path: C:\WINDOWS\system32\IntelIHVRouter08.dll
+Error Code: 21
+"
+534,Error,19-10-2022 21:41,Microsoft-Windows-Kernel-Power,86,-83,"The system was shut down due to a critical thermal event.             
+Shutdown Time = ?2022?-?10?-?19T16:11:46.231816100Z             
+ACPI Thermal Zone = \_TZ.TZ01             
+_CRT = 368K"
+535,Error,19-10-2022 21:41,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+536,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The igccservice service failed to start due to the following error: 
+The media is write protected."
+537,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The WpnService service failed to start due to the following error: 
+The media is write protected."
+538,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The RAPSService service depends on the LanmanServer service which failed to start because of the following error: 
+The dependency service or group failed to start."
+539,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The NetSetupSvc service failed to start due to the following error: 
+The media is write protected."
+540,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The WavesAudioService service failed to start due to the following error: 
+The media is write protected."
+541,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The wtd service depends on the BFE service which failed to start because of the following error: 
+The media is write protected."
+542,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The TrkWks service failed to start due to the following error: 
+The media is write protected."
+543,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The tcpipreg service failed to start due to the following error: 
+The media is write protected."
+544,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The StateRepository service failed to start due to the following error: 
+The media is write protected."
+545,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The ModuleCoreService service failed to start due to the following error: 
+The media is write protected."
+546,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The WavesSysSvc service failed to start due to the following error: 
+The media is write protected."
+547,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The PEAUTH service failed to start due to the following error: 
+The media is write protected."
+548,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The UserManager service depends on the ProfSvc service which failed to start because of the following error: 
+The media is write protected."
+549,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The Netman service depends on the nsi service which failed to start because of the following error: 
+The media is write protected."
+550,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The McAPExe service depends on the mfevtp service which failed to start because of the following error: 
+The dependency service or group failed to start."
+551,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The mfevtp service depends on the mfemms service which failed to start because of the following error: 
+The media is write protected."
+552,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The mfemms service failed to start due to the following error: 
+The media is write protected."
+553,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The SmartByte Network Service x64 service depends on the nsi service which failed to start because of the following error: 
+The media is write protected."
+554,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The PEFService service failed to start due to the following error: 
+The media is write protected."
+555,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The RtkAudioUniversalService service failed to start due to the following error: 
+The media is write protected."
+556,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The mfemms service failed to start due to the following error: 
+The media is write protected."
+557,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The Ndu service failed to start due to the following error: 
+The media is write protected."
+558,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The MMCSS service failed to start due to the following error: 
+The media is write protected."
+559,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The McAfee WebAdvisor service failed to start due to the following error: 
+The media is write protected."
+560,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The mrxsmb10 service depends on the mrxsmb service which failed to start because of the following error: 
+The dependency service or group failed to start."
+561,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The DPS service failed to start due to the following error: 
+The media is write protected."
+562,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The IKEEXT service depends on the nsi service which failed to start because of the following error: 
+The media is write protected."
+563,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The jhi_service service depends on the iphlpsvc service which failed to start because of the following error: 
+The dependency service or group failed to start."
+564,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The iphlpsvc service depends on the WinHttpAutoProxySvc service which failed to start because of the following error: 
+The dependency service or group failed to start."
+565,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The WinHttpAutoProxySvc service depends on the Dhcp service which failed to start because of the following error: 
+The dependency service or group failed to start."
+566,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The cplspcon service failed to start due to the following error: 
+The media is write protected."
+567,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The esifsvc service failed to start due to the following error: 
+The media is write protected."
+568,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The DispBrokerDesktopSvc service failed to start due to the following error: 
+The media is write protected."
+569,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The DiagTrack service failed to start due to the following error: 
+The media is write protected."
+570,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The com.docker.service service depends on the LanmanServer service which failed to start because of the following error: 
+The dependency service or group failed to start."
+571,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The LanmanServer service depends on the srv2 service which failed to start because of the following error: 
+The dependency service or group failed to start."
+572,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The srv2 service depends on the srvnet service which failed to start because of the following error: 
+The dependency service or group failed to start."
+573,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The srvnet service depends on the MsQuic service which failed to start because of the following error: 
+The media is write protected."
+574,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The CryptSvc service failed to start due to the following error: 
+The media is write protected."
+575,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The ClickToRunSvc service failed to start due to the following error: 
+The media is write protected."
+576,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The bowser service failed to start due to the following error: 
+The media is write protected."
+577,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The mpsdrv service failed to start due to the following error: 
+The media is write protected."
+578,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The mrxsmb20 service depends on the mrxsmb service which failed to start because of the following error: 
+The dependency service or group failed to start."
+579,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The mrxsmb service depends on the MsQuic service which failed to start because of the following error: 
+The media is write protected."
+580,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The LanmanWorkstation service depends on the nsi service which failed to start because of the following error: 
+The media is write protected."
+581,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The mpssvc service depends on the nsi service which failed to start because of the following error: 
+The media is write protected."
+582,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The BFE service failed to start due to the following error: 
+The media is write protected."
+583,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The Spooler service depends on the HTTP service which failed to start because of the following error: 
+The dependency service or group failed to start."
+584,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The HTTP service depends on the MsQuic service which failed to start because of the following error: 
+The media is write protected."
+585,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The MsQuic service failed to start due to the following error: 
+The media is write protected."
+586,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The Schedule service failed to start due to the following error: 
+The media is write protected."
+587,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The WlanSvc service depends on the Wcmsvc service which failed to start because of the following error: 
+The dependency service or group failed to start."
+588,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The NativeWifiP service failed to start due to the following error: 
+The media is write protected."
+589,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The Ndisuio service failed to start due to the following error: 
+The media is write protected."
+590,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The Wcmsvc service depends on the nsi service which failed to start because of the following error: 
+The media is write protected."
+591,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The DusmSvc service failed to start due to the following error: 
+The media is write protected."
+592,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The Dnscache service depends on the nsi service which failed to start because of the following error: 
+The media is write protected."
+593,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The Dhcp service depends on the nsi service which failed to start because of the following error: 
+The media is write protected."
+594,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The nsi service failed to start due to the following error: 
+The media is write protected."
+595,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The VMSP service failed to start due to the following error: 
+The media is write protected."
+596,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The wanarp service failed to start due to the following error: 
+The media is write protected."
+597,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The rspndr service failed to start due to the following error: 
+The media is write protected."
+598,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The MsLldp service failed to start due to the following error: 
+The media is write protected."
+599,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The lltdio service failed to start due to the following error: 
+The media is write protected."
+600,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The TextInputManagementService service failed to start due to the following error: 
+The media is write protected."
+601,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The SamSs service failed to start due to the following error: 
+The media is write protected."
+602,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The FontCache service failed to start due to the following error: 
+The media is write protected."
+603,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The Audiosrv service depends on the AudioEndpointBuilder service which failed to start because of the following error: 
+The media is write protected."
+604,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The AudioEndpointBuilder service failed to start due to the following error: 
+The media is write protected."
+605,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The Themes service failed to start due to the following error: 
+The media is write protected."
+606,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The ProfSvc service failed to start due to the following error: 
+The media is write protected."
+607,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The igfxCUIService2.0.0.0 service depends on the SENS service which failed to start because of the following error: 
+The dependency service or group failed to start."
+608,Error,19-10-2022 21:40,Service Control Manager,7001,None,"The SENS service depends on the EventSystem service which failed to start because of the following error: 
+The media is write protected."
+609,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The EventSystem service failed to start due to the following error: 
+The media is write protected."
+610,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The EventLog service failed to start due to the following error: 
+The media is write protected."
+611,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The bindflt service failed to start due to the following error: 
+The media is write protected."
+612,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The storqosflt service failed to start due to the following error: 
+The media is write protected."
+613,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The CldFlt service failed to start due to the following error: 
+The media is write protected."
+614,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The wcifs service failed to start due to the following error: 
+The media is write protected."
+615,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The luafv service failed to start due to the following error: 
+The media is write protected."
+616,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+The media is write protected."
+617,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The HvHost service failed to start due to the following error: 
+The service did not respond to the start or control request in a timely fashion."
+618,Error,19-10-2022 21:40,Service Control Manager,7009,None,A timeout was reached (45000 milliseconds) while waiting for the HvHost service to connect.
+619,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The lmhosts service failed to start due to the following error: 
+The service did not respond to the start or control request in a timely fashion."
+620,Error,19-10-2022 21:40,Service Control Manager,7009,None,A timeout was reached (45000 milliseconds) while waiting for the lmhosts service to connect.
+621,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The gpsvc service failed to start due to the following error: 
+The service did not respond to the start or control request in a timely fashion."
+622,Error,19-10-2022 21:40,Service Control Manager,7009,None,A timeout was reached (45000 milliseconds) while waiting for the gpsvc service to connect.
+623,Error,19-10-2022 21:40,Service Control Manager,7000,None,"The CoreMessagingRegistrar service failed to start due to the following error: 
+The media is write protected."
+624,Error,19-10-2022 21:40,Microsoft-Windows-Kernel-Power,86,-83,"The system was shut down due to a critical thermal event.             
+Shutdown Time = ?2022?-?10?-?19T16:10:51.417519600Z             
+ACPI Thermal Zone = \_TZ.TZ01             
+_CRT = 368K"
+625,Error,19-10-2022 21:40,Application Error,1000,Application Crashing Events,"Faulting application name: mfevtps.exe, version: 22.7.0.191, time stamp: 0x62b9312c
+Faulting module name: CRYPT32.dll, version: 10.0.22621.674, time stamp: 0xf88e9ce4
+Exception code: 0xc0000005
+Fault offset: 0x0000000000021347
+Faulting process id: 0x0x1284
+Faulting application start time: 0x0x1D8E3B891DBAE61
+Faulting application path: C:\Windows\system32\mfevtps.exe
+Faulting module path: C:\WINDOWS\SYSTEM32\CRYPT32.dll
+Report Id: dcf65502-2325-4f56-97b4-f2ddbee2aaa3
+Faulting package full name: 
+Faulting package-relative application ID: "
+626,Error,19-10-2022 21:40,Application Error,1000,Application Crashing Events,"Faulting application name: WavesSysSvc64.exe, version: 1.55.4.0, time stamp: 0x618a55d2
+Faulting module name: WavesSysSvc64.exe, version: 1.55.4.0, time stamp: 0x618a55d2
+Exception code: 0xc0000005
+Fault offset: 0x0000000000033fea
+Faulting process id: 0x0x11DC
+Faulting application start time: 0x0x1D8E3B8907C808E
+Faulting application path: C:\WINDOWS\System32\DriverStore\FileRepository\wavesapo11de.inf_amd64_6ef00ed1517c6ebe\WavesSysSvc64.exe
+Faulting module path: C:\WINDOWS\System32\DriverStore\FileRepository\wavesapo11de.inf_amd64_6ef00ed1517c6ebe\WavesSysSvc64.exe
+Report Id: ba49ee06-070d-4b12-a340-95f1fc444e43
+Faulting package full name: 
+Faulting package-relative application ID: "
+627,Error,19-10-2022 21:37,Volsnap,36,None,The shadow copies of volume C: were aborted because the shadow copy storage could not grow due to a user imposed limit.
+628,Error,19-10-2022 21:27,Service Control Manager,7034,None,The Docker Desktop Service service terminated unexpectedly.  It has done this 1 time(s).
+629,Error,19-10-2022 20:58,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+630,Error,19-10-2022 20:53,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+631,Error,19-10-2022 20:30,Microsoft-Windows-DistributedCOM,10010,None,The server {A9B7A1B9-0671-405C-95F1-E0612CB4CE7E} did not register with DCOM within the required timeout.
+632,Error,19-10-2022 20:30,Microsoft-Windows-DistributedCOM,10010,None,The server {A9B7A1B9-0671-405C-95F1-E0612CB4CE7E} did not register with DCOM within the required timeout.
+633,Error,19-10-2022 18:14,Microsoft-Windows-WHEA-Logger,1,None,A fatal hardware error has occurred. A record describing the condition is contained in the data section of this event.
+634,Error,19-10-2022 18:14,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+635,Error,19-10-2022 18:14,EventLog,6008,None,The previous system shutdown at 6:12:16 PM on ?10/?19/?2022 was unexpected.
+636,Error,19-10-2022 18:12,Service Control Manager,7024,None,"The mpssvc service terminated with the following service-specific error: 
+The media is write protected."
+637,Error,19-10-2022 18:12,Service Control Manager,7024,None,"The mpssvc service terminated with the following service-specific error: 
+The media is write protected."
+638,Error,19-10-2022 18:12,Service Control Manager,7024,None,"The mpssvc service terminated with the following service-specific error: 
+The media is write protected."
+639,Error,19-10-2022 18:12,Service Control Manager,7024,None,"The mpssvc service terminated with the following service-specific error: 
+The media is write protected."
+640,Error,19-10-2022 18:12,Service Control Manager,7024,None,"The mpssvc service terminated with the following service-specific error: 
+The media is write protected."
+641,Error,19-10-2022 18:12,Service Control Manager,7024,None,"The mpssvc service terminated with the following service-specific error: 
+The media is write protected."
+642,Error,19-10-2022 18:12,Service Control Manager,7024,None,"The mpssvc service terminated with the following service-specific error: 
+The media is write protected."
+643,Error,19-10-2022 18:12,Service Control Manager,7024,None,"The mpssvc service terminated with the following service-specific error: 
+The media is write protected."
+644,Error,19-10-2022 18:12,Service Control Manager,7024,None,"The mpssvc service terminated with the following service-specific error: 
+The media is write protected."
+645,Error,19-10-2022 18:12,Service Control Manager,7024,None,"The mpssvc service terminated with the following service-specific error: 
+The media is write protected."
+646,Error,19-10-2022 18:12,Service Control Manager,7024,None,"The mpssvc service terminated with the following service-specific error: 
+The media is write protected."
+647,Error,19-10-2022 18:12,Service Control Manager,7024,None,"The mpssvc service terminated with the following service-specific error: 
+The media is write protected."
+648,Error,19-10-2022 18:12,Service Control Manager,7024,None,"The mpssvc service terminated with the following service-specific error: 
+The media is write protected."
+649,Error,19-10-2022 18:12,Service Control Manager,7024,None,"The mpssvc service terminated with the following service-specific error: 
+The media is write protected."
+650,Error,19-10-2022 18:12,Service Control Manager,7024,None,"The mpssvc service terminated with the following service-specific error: 
+The media is write protected."
+651,Error,19-10-2022 18:12,Service Control Manager,7024,None,"The mpssvc service terminated with the following service-specific error: 
+The media is write protected."
+652,Error,19-10-2022 18:12,Service Control Manager,7024,None,"The mpssvc service terminated with the following service-specific error: 
+The media is write protected."
+653,Error,19-10-2022 18:12,Service Control Manager,7024,None,"The mpssvc service terminated with the following service-specific error: 
+The media is write protected."
+654,Error,19-10-2022 18:12,Service Control Manager,7024,None,"The mpssvc service terminated with the following service-specific error: 
+The media is write protected."
+655,Error,19-10-2022 18:12,Service Control Manager,7024,None,"The mpssvc service terminated with the following service-specific error: 
+The media is write protected."
+656,Error,19-10-2022 18:12,Service Control Manager,7024,None,"The mpssvc service terminated with the following service-specific error: 
+The media is write protected."
+657,Error,19-10-2022 18:12,Service Control Manager,7024,None,"The mpssvc service terminated with the following service-specific error: 
+The media is write protected."
+658,Error,19-10-2022 18:12,Microsoft-Windows-Kernel-Power,86,-83,"The system was shut down due to a critical thermal event.             
+Shutdown Time = ?2022?-?10?-?19T12:42:20.272809400Z             
+ACPI Thermal Zone = \_TZ.TZ01             
+_CRT = 368K"
+659,Error,19-10-2022 18:12,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+660,Error,19-10-2022 18:12,EventLog,6008,None,The previous system shutdown at 6:11:21 PM on ?10/?19/?2022 was unexpected.
+661,Error,19-10-2022 18:11,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+662,Error,19-10-2022 10:51,Application Hang,1002,Hanging Events,"The program msteams.exe version 22227.300.1508.3394 stopped interacting with Windows and was closed. To see if more information about the problem is available, check the problem history in the Security and Maintenance control panel.
+"
+663,Error,19-10-2022 09:26,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+664,Error,18-10-2022 18:49,Tcpip,4199,None,The system detected an address conflict for IP address 192.168.1.3 with the system having network hardware address D8-A3-15-58-BC-3B. Network operations on this system may be disrupted as a result.
+665,Error,18-10-2022 16:34,Application Error,1000,Application Crashing Events,"Faulting application name: AUDIODG.EXE, version: 10.0.22621.608, time stamp: 0x7a4182d8
+Faulting module name: KERNELBASE.dll, version: 10.0.22621.608, time stamp: 0x4769d08d
+Exception code: 0xc0000005
+Fault offset: 0x000000000008fb0c
+Faulting process id: 0x0x5350
+Faulting application start time: 0x0x1D8E2E000D83F35
+Faulting application path: C:\WINDOWS\system32\AUDIODG.EXE
+Faulting module path: C:\WINDOWS\System32\KERNELBASE.dll
+Report Id: cab90099-67b3-41fe-97d0-ab77355133eb
+Faulting package full name: 
+Faulting package-relative application ID: "
+666,Error,18-10-2022 16:10,Application Error,1000,Application Crashing Events,"Faulting application name: AUDIODG.EXE, version: 10.0.22621.608, time stamp: 0x7a4182d8
+Faulting module name: KERNELBASE.dll, version: 10.0.22621.608, time stamp: 0x4769d08d
+Exception code: 0xc0000005
+Fault offset: 0x000000000008fb0c
+Faulting process id: 0x0x3A80
+Faulting application start time: 0x0x1D8E2DD66BCECB8
+Faulting application path: C:\WINDOWS\system32\AUDIODG.EXE
+Faulting module path: C:\WINDOWS\System32\KERNELBASE.dll
+Report Id: bbe41854-fb0c-42ce-ad7f-687eba22b5bc
+Faulting package full name: 
+Faulting package-relative application ID: "
+667,Error,18-10-2022 16:05,Microsoft-Windows-WLAN-AutoConfig,10000,None,"WLAN Extensibility Module has failed to start.
+
+Module Path: C:\WINDOWS\system32\IntelIHVRouter08.dll
+Error Code: 21
+"
+668,Error,18-10-2022 16:05,Application Error,1000,Application Crashing Events,"Faulting application name: AUDIODG.EXE, version: 10.0.22621.608, time stamp: 0x7a4182d8
+Faulting module name: KERNELBASE.dll, version: 10.0.22621.608, time stamp: 0x4769d08d
+Exception code: 0xc0000005
+Fault offset: 0x000000000008fb0c
+Faulting process id: 0x0x4234
+Faulting application start time: 0x0x1D8E2D98EA221A7
+Faulting application path: C:\WINDOWS\system32\AUDIODG.EXE
+Faulting module path: C:\WINDOWS\System32\KERNELBASE.dll
+Report Id: f9506900-78bc-468e-a102-a3d5bcaad486
+Faulting package full name: 
+Faulting package-relative application ID: "
+669,Error,18-10-2022 15:38,Application Error,1000,Application Crashing Events,"Faulting application name: AUDIODG.EXE, version: 10.0.22621.608, time stamp: 0x7a4182d8
+Faulting module name: KERNELBASE.dll, version: 10.0.22621.608, time stamp: 0x4769d08d
+Exception code: 0xc0000005
+Fault offset: 0x000000000008fb0c
+Faulting process id: 0x0x4BBC
+Faulting application start time: 0x0x1D8E2D63311C271
+Faulting application path: C:\WINDOWS\system32\AUDIODG.EXE
+Faulting module path: C:\WINDOWS\System32\KERNELBASE.dll
+Report Id: 32754c17-1798-44eb-b5ad-33a4b6105009
+Faulting package full name: 
+Faulting package-relative application ID: "
+670,Error,18-10-2022 09:12,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+671,Error,18-10-2022 09:07,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+672,Error,17-10-2022 18:44,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9P9TQF7MRM4R-MicrosoftCorporationII.WindowsSubsystemforLinux.
+673,Error,17-10-2022 18:12,Service Control Manager,7031,None,The Dell Data Vault Processor service terminated unexpectedly.  It has done this 1 time(s).  The following corrective action will be taken in 0 milliseconds: Restart the service.
+674,Error,17-10-2022 15:51,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9P9TQF7MRM4R-MicrosoftCorporationII.WindowsSubsystemforLinux.
+675,Error,17-10-2022 14:03,Netwtw08,5002,None,Intel(R) Wireless-AC 9462 : Has determined that the network adapter is not functioning properly.
+676,Error,17-10-2022 14:03,Netwtw08,5005,None,Intel(R) Wireless-AC 9462 : Has encountered an internal error and has failed.
+677,Error,17-10-2022 13:59,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+678,Error,17-10-2022 13:59,Application Error,1000,Application Crashing Events,"Faulting application name: mfevtps.exe, version: 22.7.0.191, time stamp: 0x62b9312c
+Faulting module name: CRYPT32.dll, version: 10.0.22621.674, time stamp: 0xf88e9ce4
+Exception code: 0xc0000005
+Fault offset: 0x000000000001ff72
+Faulting process id: 0x0x151C
+Faulting application start time: 0x0x1D8E11BA9A7CEB5
+Faulting application path: C:\Windows\system32\mfevtps.exe
+Faulting module path: C:\WINDOWS\SYSTEM32\CRYPT32.dll
+Report Id: 0380f2b2-a746-4197-ad0e-fc61616ba9ef
+Faulting package full name: 
+Faulting package-relative application ID: "
+679,Error,17-10-2022 12:13,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+680,Error,17-10-2022 12:10,Microsoft-Windows-Hyper-V-VmSwitch,32,-1022,"Failed to connect NIC E376E0D0-8786-417B-8F47-C74917F4ED79--81F48116-F65C-431B-B5E5-050758D2DD73 (Friendly Name: ) to port 81F48116-F65C-431B-B5E5-050758D2DD73 (Friendly Name: ) on switch B95D0C5E-57D4-412B-B571-18A81A16E005 (Friendly Name: ), status = Object Name not found.. UniqueEvent = 80."
+681,Error,17-10-2022 12:10,Microsoft-Windows-Hyper-V-VmSwitch,32,-1022,"Failed to connect NIC 347F531E-78B2-4DC1-A9E8-C7DEF1AD487F--A569996D-5468-4F31-8A84-C54A2F69D623 (Friendly Name: ) to port A569996D-5468-4F31-8A84-C54A2F69D623 (Friendly Name: ) on switch B95D0C5E-57D4-412B-B571-18A81A16E005 (Friendly Name: ), status = Object Name not found.. UniqueEvent = 80."
+682,Error,17-10-2022 11:28,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+683,Error,17-10-2022 11:24,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+684,Error,16-10-2022 21:19,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+685,Error,16-10-2022 18:55,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+686,Error,16-10-2022 18:50,Tcpip,4199,None,The system detected an address conflict for IP address 192.168.1.2 with the system having network hardware address CA-87-32-32-63-73. Network operations on this system may be disrupted as a result.
+687,Error,16-10-2022 10:26,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+688,Error,16-10-2022 10:26,EventLog,6008,None,The previous system shutdown at 10:25:40 AM on ?10/?16/?2022 was unexpected.
+689,Error,16-10-2022 10:25,Microsoft-Windows-Kernel-Power,86,-83,"The system was shut down due to a critical thermal event.             
+Shutdown Time = ?2022?-?10?-?16T04:55:49.007705500Z             
+ACPI Thermal Zone = \_TZ.TZ01             
+_CRT = 368K"
+690,Error,16-10-2022 10:25,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+691,Error,16-10-2022 10:25,EventLog,6008,None,The previous system shutdown at 10:24:51 AM on ?10/?16/?2022 was unexpected.
+692,Error,16-10-2022 10:06,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+693,Error,16-10-2022 10:06,EventLog,6008,None,The previous system shutdown at 10:04:54 AM on ?10/?16/?2022 was unexpected.
+694,Error,16-10-2022 09:49,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+695,Error,16-10-2022 09:45,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+696,Error,15-10-2022 19:23,Netwtw08,5002,None,Intel(R) Wireless-AC 9462 : Has determined that the network adapter is not functioning properly.
+697,Error,15-10-2022 19:23,Netwtw08,5005,None,Intel(R) Wireless-AC 9462 : Has encountered an internal error and has failed.
+698,Error,15-10-2022 19:19,Tcpip,4199,None,The system detected an address conflict for IP address 192.168.1.3 with the system having network hardware address D8-A3-15-58-BC-3B. Network operations on this system may be disrupted as a result.
+699,Error,15-10-2022 19:00,Microsoft-Windows-DistributedCOM,10010,None,The server microsoft.windowscommunicationsapps_16005.14326.20970.0_x64__8wekyb3d8bbwe!microsoft.windowslive.calendar.AppXwkn9j84yh1kvnt49k5r8h6y1ecsv09hs.mca did not register with DCOM within the required timeout.
+700,Error,15-10-2022 17:18,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {ce1331ff-3345-4427-8fa1-f9865325cd0e}"
+701,Error,15-10-2022 17:16,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {ce1331ff-3345-4427-8fa1-f9865325cd0e}"
+702,Error,15-10-2022 16:04,Netwtw08,5002,None,Intel(R) Wireless-AC 9462 : Has determined that the network adapter is not functioning properly.
+703,Error,15-10-2022 16:04,Netwtw08,5005,None,Intel(R) Wireless-AC 9462 : Has encountered an internal error and has failed.
+704,Error,15-10-2022 09:01,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+705,Error,14-10-2022 21:52,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+706,Error,14-10-2022 21:48,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+707,Error,14-10-2022 17:52,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+708,Error,14-10-2022 17:48,Service Control Manager,7011,None,A timeout (30000 milliseconds) was reached while waiting for a transaction response from the WslService service.
+709,Error,14-10-2022 15:02,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+710,Error,14-10-2022 14:44,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+711,Error,14-10-2022 14:44,EventLog,6008,None,The previous system shutdown at 2:42:53 PM on ?10/?14/?2022 was unexpected.
+712,Error,14-10-2022 14:42,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+713,Error,14-10-2022 14:23,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+714,Error,14-10-2022 14:22,Application Error,1000,Application Crashing Events,"Faulting application name: mfevtps.exe, version: 22.7.0.191, time stamp: 0x62b9312c
+Faulting module name: CRYPT32.dll, version: 10.0.22621.674, time stamp: 0xf88e9ce4
+Exception code: 0xc0000005
+Fault offset: 0x000000000001ff72
+Faulting process id: 0x0x13D8
+Faulting application start time: 0x0x1D8DEB3F056B430
+Faulting application path: C:\Windows\system32\mfevtps.exe
+Faulting module path: C:\WINDOWS\SYSTEM32\CRYPT32.dll
+Report Id: 3f35043e-b157-41fd-9400-7038f19ff328
+Faulting package full name: 
+Faulting package-relative application ID: "
+715,Error,14-10-2022 13:54,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NKSQGP7F2NH-5319275A.WhatsAppDesktop.
+716,Error,14-10-2022 13:54,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NMPJ99VJBWV-Microsoft.YourPhone.
+717,Error,14-10-2022 13:53,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9P9TQF7MRM4R-MicrosoftCorporationII.WindowsSubsystemforLinux.
+718,Error,14-10-2022 10:05,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+719,Error,13-10-2022 19:59,Netwtw08,5002,None,Intel(R) Wireless-AC 9462 : Has determined that the network adapter is not functioning properly.
+720,Error,13-10-2022 19:59,Netwtw08,5005,None,Intel(R) Wireless-AC 9462 : Has encountered an internal error and has failed.
+721,Error,13-10-2022 15:27,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9P9TQF7MRM4R-MicrosoftCorporationII.WindowsSubsystemforLinux.
+722,Error,13-10-2022 15:13,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {9c3f1051-e05b-4576-99a5-53256696fe42}"
+723,Error,13-10-2022 15:08,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {9c3f1051-e05b-4576-99a5-53256696fe42}"
+724,Error,13-10-2022 08:58,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+725,Error,13-10-2022 08:58,Service Control Manager,7000,None,"The Host Network Service service failed to start due to the following error: 
+The system cannot find the path specified."
+726,Error,13-10-2022 08:38,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+727,Error,13-10-2022 08:38,Application Error,1000,Application Crashing Events,"Faulting application name: mfevtps.exe, version: 22.7.0.191, time stamp: 0x62b9312c
+Faulting module name: CRYPT32.dll, version: 10.0.22621.674, time stamp: 0xf88e9ce4
+Exception code: 0xc0000005
+Fault offset: 0x000000000001ff72
+Faulting process id: 0x0x1610
+Faulting application start time: 0x0x1D8DE55AA6DF3C2
+Faulting application path: C:\Windows\system32\mfevtps.exe
+Faulting module path: C:\WINDOWS\SYSTEM32\CRYPT32.dll
+Report Id: 744f990e-9cbc-4e82-9445-980185169f8d
+Faulting package full name: 
+Faulting package-relative application ID: "
+728,Error,13-10-2022 08:38,Application Error,1000,Application Crashing Events,"Faulting application name: WavesSysSvc64.exe, version: 1.55.4.0, time stamp: 0x618a55d2
+Faulting module name: WavesSysSvc64.exe, version: 1.55.4.0, time stamp: 0x618a55d2
+Exception code: 0xc0000005
+Fault offset: 0x0000000000033fea
+Faulting process id: 0x0x11B0
+Faulting application start time: 0x0x1D8DE55A978C3EC
+Faulting application path: C:\WINDOWS\System32\DriverStore\FileRepository\wavesapo11de.inf_amd64_6ef00ed1517c6ebe\WavesSysSvc64.exe
+Faulting module path: C:\WINDOWS\System32\DriverStore\FileRepository\wavesapo11de.inf_amd64_6ef00ed1517c6ebe\WavesSysSvc64.exe
+Report Id: 89b02147-253b-4fa4-9aa9-d5c8747e6648
+Faulting package full name: 
+Faulting package-relative application ID: "
+729,Error,12-10-2022 21:44,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+730,Error,12-10-2022 21:43,Application Error,1000,Application Crashing Events,"Faulting application name: mfevtps.exe, version: 22.7.0.191, time stamp: 0x62b9312c
+Faulting module name: CRYPT32.dll, version: 10.0.22621.674, time stamp: 0xf88e9ce4
+Exception code: 0xc0000005
+Fault offset: 0x000000000001ff72
+Faulting process id: 0x0x15C4
+Faulting application start time: 0x0x1D8DE51943F7935
+Faulting application path: C:\Windows\system32\mfevtps.exe
+Faulting module path: C:\WINDOWS\SYSTEM32\CRYPT32.dll
+Report Id: c1d6f2b1-b38f-4a1d-bdb0-e7c423552077
+Faulting package full name: 
+Faulting package-relative application ID: "
+731,Error,12-10-2022 21:14,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+732,Error,12-10-2022 21:09,Microsoft-Windows-WHEA-Logger,1,None,A fatal hardware error has occurred. A record describing the condition is contained in the data section of this event.
+733,Error,12-10-2022 21:09,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+734,Error,12-10-2022 21:09,EventLog,6008,None,The previous system shutdown at 9:03:37 PM on ?10/?12/?2022 was unexpected.
+735,Error,12-10-2022 21:03,Microsoft-Windows-Kernel-Power,86,-83,"The system was shut down due to a critical thermal event.             
+Shutdown Time = ?2022?-?10?-?12T15:33:40.756205900Z             
+ACPI Thermal Zone = \_TZ.TZ01             
+_CRT = 368K"
+736,Error,12-10-2022 21:03,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+737,Error,12-10-2022 21:03,Application Error,1000,Application Crashing Events,"Faulting application name: mfevtps.exe, version: 22.7.0.191, time stamp: 0x62b9312c
+Faulting module name: CRYPT32.dll, version: 10.0.22621.674, time stamp: 0xf88e9ce4
+Exception code: 0xc0000005
+Fault offset: 0x000000000001ff72
+Faulting process id: 0x0x13BC
+Faulting application start time: 0x0x1D8DE4EF43E4CBD
+Faulting application path: C:\Windows\system32\mfevtps.exe
+Faulting module path: C:\WINDOWS\SYSTEM32\CRYPT32.dll
+Report Id: d90408b7-1d2e-49c6-89c8-b5f3f6657aeb
+Faulting package full name: 
+Faulting package-relative application ID: "
+738,Error,12-10-2022 21:02,Microsoft-Windows-DistributedCOM,10010,None,The server {2593F8B9-4EAF-457C-B68A-50F6B8EA6B54} did not register with DCOM within the required timeout.
+739,Error,12-10-2022 21:02,Microsoft-Windows-DistributedCOM,10010,None,The server {2593F8B9-4EAF-457C-B68A-50F6B8EA6B54} did not register with DCOM within the required timeout.
+740,Error,12-10-2022 21:02,Microsoft-Windows-DistributedCOM,10010,None,The server Microsoft.AAD.BrokerPlugin_1000.19580.1000.0_neutral_neutral_cw5n1h2txyewy!Windows.Security.Authentication.Web.Core.BackgroundGetTokenTask.ClassId.WebAccountProvider did not register with DCOM within the required timeout.
+741,Error,12-10-2022 20:58,Microsoft-Windows-User Profiles Service,1552,None,"User hive is loaded by another process (Registry Lock) Process name: C:\Windows\System32\svchost.exe, PID: 6548, ProfSvc PID: 2280."
+742,Error,12-10-2022 20:58,Microsoft-Windows-User Profiles Service,1552,None,"User hive is loaded by another process (Registry Lock) Process name: C:\Windows\System32\svchost.exe, PID: 6548, ProfSvc PID: 2280."
+743,Error,12-10-2022 20:56,Service Control Manager,7000,None,"The VMSP service failed to start due to the following error: 
+Insufficient system resources exist to complete the requested service."
+744,Error,12-10-2022 20:56,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+745,Error,12-10-2022 20:56,EventLog,6008,None,The previous system shutdown at 8:27:54 PM on ?10/?12/?2022 was unexpected.
+746,Error,12-10-2022 20:05,MsiInstaller,10005,None,Product: Windows Subsystem for Linux Update -- This update only applies to machines with the Windows Subsytem for Linux
+747,Error,12-10-2022 20:03,MsiInstaller,10005,None,Product: Windows Subsystem for Linux Update -- This update only applies to machines with the Windows Subsytem for Linux
+748,Error,12-10-2022 20:00,MsiInstaller,10005,None,Product: Windows Subsystem for Linux Update -- This update only applies to machines with the Windows Subsytem for Linux
+749,Error,12-10-2022 19:56,MsiInstaller,10005,None,Product: Windows Subsystem for Linux Update -- This update only applies to machines with the Windows Subsytem for Linux
+750,Error,12-10-2022 19:27,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+751,Error,12-10-2022 19:24,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+752,Error,12-10-2022 19:24,Application Error,1000,Application Crashing Events,"Faulting application name: mfevtps.exe, version: 22.7.0.191, time stamp: 0x62b9312c
+Faulting module name: ntdll.dll, version: 10.0.22621.317, time stamp: 0x6cf39caa
+Exception code: 0xc0000005
+Fault offset: 0x000000000003415a
+Faulting process id: 0x0x17E0
+Faulting application start time: 0x0x1D8DD6793E8961F
+Faulting application path: C:\Windows\system32\mfevtps.exe
+Faulting module path: C:\WINDOWS\SYSTEM32\ntdll.dll
+Report Id: c518d04a-5431-429a-b78d-9788c4b20bba
+Faulting package full name: 
+Faulting package-relative application ID: "
+753,Error,12-10-2022 19:24,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x800704C7: 2022-10 Cumulative Update for Windows 11 Version 22H2 for x64-based Systems (KB5018427).
+754,Error,12-10-2022 17:40,MsiInstaller,10005,None,Product: Windows Subsystem for Linux Update -- This update only applies to machines with the Windows Subsytem for Linux
+755,Error,11-10-2022 17:24,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+756,Error,11-10-2022 17:19,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+757,Error,11-10-2022 17:19,Application Error,1000,Application Crashing Events,"Faulting application name: mfevtps.exe, version: 22.7.0.191, time stamp: 0x62b9312c
+Faulting module name: CRYPT32.dll, version: 10.0.22621.382, time stamp: 0xf88e9ce4
+Exception code: 0xc0000005
+Fault offset: 0x0000000000021347
+Faulting process id: 0x0x2E98
+Faulting application start time: 0x0x1D8DCAD891C6EE8
+Faulting application path: C:\Windows\system32\mfevtps.exe
+Faulting module path: C:\WINDOWS\SYSTEM32\CRYPT32.dll
+Report Id: eb81fb6a-9316-4a75-b4c3-90e188b13b34
+Faulting package full name: 
+Faulting package-relative application ID: "
+758,Error,11-10-2022 08:51,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+759,Error,11-10-2022 08:48,Tcpip,4199,None,The system detected an address conflict for IP address 192.168.1.2 with the system having network hardware address CA-87-32-32-63-73. Network operations on this system may be disrupted as a result.
+760,Error,10-10-2022 19:08,Application Error,1000,Application Crashing Events,"Faulting application name: mfevtps.exe, version: 22.7.0.191, time stamp: 0x62b9312c
+Faulting module name: CRYPT32.dll, version: 10.0.22621.382, time stamp: 0xf88e9ce4
+Exception code: 0xc0000005
+Fault offset: 0x000000000001ff72
+Faulting process id: 0x0x4308
+Faulting application start time: 0x0x1D8DB87F994376A
+Faulting application path: C:\Windows\system32\mfevtps.exe
+Faulting module path: C:\WINDOWS\SYSTEM32\CRYPT32.dll
+Report Id: d56dc52b-4caf-4cf9-b329-0319db947e31
+Faulting package full name: 
+Faulting package-relative application ID: "
+761,Error,10-10-2022 15:27,Application Error,1000,Application Crashing Events,"Faulting application name: AUDIODG.EXE, version: 10.0.22621.317, time stamp: 0xb43ec052
+Faulting module name: KERNELBASE.dll, version: 10.0.22621.457, time stamp: 0xf9b807f0
+Exception code: 0xc0000005
+Fault offset: 0x000000000008faec
+Faulting process id: 0x0x61DC
+Faulting application start time: 0x0x1D8DC8E56A3D0FD
+Faulting application path: C:\WINDOWS\system32\AUDIODG.EXE
+Faulting module path: C:\WINDOWS\System32\KERNELBASE.dll
+Report Id: a197cf0f-380b-4dea-9147-9085938cff52
+Faulting package full name: 
+Faulting package-relative application ID: "
+762,Error,10-10-2022 15:02,Application Error,1000,Application Crashing Events,"Faulting application name: AUDIODG.EXE, version: 10.0.22621.317, time stamp: 0xb43ec052
+Faulting module name: KERNELBASE.dll, version: 10.0.22621.457, time stamp: 0xf9b807f0
+Exception code: 0xc0000005
+Fault offset: 0x000000000008faec
+Faulting process id: 0x0xB48
+Faulting application start time: 0x0x1D8DBB1267EA5A2
+Faulting application path: C:\WINDOWS\system32\AUDIODG.EXE
+Faulting module path: C:\WINDOWS\System32\KERNELBASE.dll
+Report Id: f1c55451-dd9c-4268-90da-25ae9640d862
+Faulting package full name: 
+Faulting package-relative application ID: "
+763,Error,09-10-2022 15:50,Microsoft-Windows-DistributedCOM,10010,None,The server microsoft.windowscommunicationsapps_16005.14326.20970.0_x64__8wekyb3d8bbwe!microsoft.windowslive.calendar.AppXwkn9j84yh1kvnt49k5r8h6y1ecsv09hs.mca did not register with DCOM within the required timeout.
+764,Error,09-10-2022 08:06,Application Error,1000,Application Crashing Events,"Faulting application name: mfevtps.exe, version: 22.4.0.226, time stamp: 0x62544e14
+Faulting module name: CRYPT32.dll, version: 10.0.22621.382, time stamp: 0xf88e9ce4
+Exception code: 0xc0000005
+Fault offset: 0x000000000001ff72
+Faulting process id: 0x0x403C
+Faulting application start time: 0x0x1D8D9499F7D21BF
+Faulting application path: C:\Windows\system32\mfevtps.exe
+Faulting module path: C:\WINDOWS\SYSTEM32\CRYPT32.dll
+Report Id: 5b6bc224-9647-4022-9c06-d96b1cacef64
+Faulting package full name: 
+Faulting package-relative application ID: "
+765,Error,08-10-2022 15:55,Netwtw08,5005,None,Intel(R) Wireless-AC 9462 : Has encountered an internal error and has failed.
+766,Error,08-10-2022 15:55,Netwtw08,5002,None,Intel(R) Wireless-AC 9462 : Has determined that the network adapter is not functioning properly.
+767,Error,08-10-2022 15:55,Netwtw08,5005,None,Intel(R) Wireless-AC 9462 : Has encountered an internal error and has failed.
+768,Error,07-10-2022 21:42,Netwtw08,5002,None,Intel(R) Wireless-AC 9462 : Has determined that the network adapter is not functioning properly.
+769,Error,07-10-2022 21:42,Netwtw08,5005,None,Intel(R) Wireless-AC 9462 : Has encountered an internal error and has failed.
+770,Error,07-10-2022 20:48,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9WZDNCRFJ364-MICROSOFT.SKYPEAPP.
+771,Error,07-10-2022 20:14,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+772,Error,07-10-2022 14:00,Microsoft-Windows-DistributedCOM,10010,None,The server Microsoft.YourPhone_1.22072.207.0_x64__8wekyb3d8bbwe!App.AppX3vhsrrrr4az9vb3h5mjdzkhtshkg5v0x.mca did not register with DCOM within the required timeout.
+773,Error,07-10-2022 10:38,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+774,Error,06-10-2022 11:35,Application Error,1000,Application Crashing Events,"Faulting application name: mfevtps.exe, version: 22.4.0.226, time stamp: 0x62544e14
+Faulting module name: CRYPT32.dll, version: 10.0.22621.382, time stamp: 0xf88e9ce4
+Exception code: 0xc0000005
+Fault offset: 0x000000000001ff72
+Faulting process id: 0x0x1524
+Faulting application start time: 0x0x1D8D6E0966F722D
+Faulting application path: C:\Windows\system32\mfevtps.exe
+Faulting module path: C:\WINDOWS\SYSTEM32\CRYPT32.dll
+Report Id: 7972d9d2-1321-4e17-9d80-11813f77bab4
+Faulting package full name: 
+Faulting package-relative application ID: "
+775,Error,05-10-2022 16:25,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+776,Error,05-10-2022 08:34,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+777,Error,04-10-2022 14:18,Microsoft-Windows-DistributedCOM,10010,None,The server {283EDD52-69B2-473D-BEB6-2C0B4C01FD73} did not register with DCOM within the required timeout.
+778,Error,04-10-2022 13:17,Application Error,1000,Application Crashing Events,"Faulting application name: PhoneExperienceHost.exe, version: 1.22072.207.0, time stamp: 0x62fff1bf
+Faulting module name: KERNELBASE.dll, version: 10.0.22621.457, time stamp: 0xf9b807f0
+Exception code: 0xe0434352
+Fault offset: 0x000000000008faec
+Faulting process id: 0x0x3880
+Faulting application start time: 0x0x1D8D7C580D7AA8F
+Faulting application path: C:\Program Files\WindowsApps\Microsoft.YourPhone_1.22072.207.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe
+Faulting module path: C:\WINDOWS\System32\KERNELBASE.dll
+Report Id: e97bc530-1a50-4ffd-84c3-ee469c6c7f6b
+Faulting package full name: Microsoft.YourPhone_1.22072.207.0_x64__8wekyb3d8bbwe
+Faulting package-relative application ID: App"
+779,Error,04-10-2022 13:17,.NET Runtime,1026,None,"Application: PhoneExperienceHost.exe
+CoreCLR Version: 6.0.922.41905
+.NET Version: 6.0.9
+Description: The process was terminated due to an unhandled exception.
+Exception Info: System.Runtime.InteropServices.COMException (0x80040154): Class not registered (0x80040154 (REGDB_E_CLASSNOTREG))
+   at WinRT.ExceptionHelpers.<ThrowExceptionForHR>g__Throw|20_0(Int32 hr)
+   at WinRT.ExceptionHelpers.ThrowExceptionForHR(Int32 hr)
+   at ABI.Microsoft.Windows.AppLifecycle.IAppInstanceMethods.GetActivatedEventArgs(IObjectReference _obj)
+   at Microsoft.Windows.AppLifecycle.AppInstance.GetActivatedEventArgs()
+   at YourPhone.Program.Main(String[] args)
+"
+780,Error,04-10-2022 11:11,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {c18e736b-7169-423b-8cd7-49d1e240b908}"
+781,Error,04-10-2022 11:10,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {c18e736b-7169-423b-8cd7-49d1e240b908}"
+782,Error,04-10-2022 10:06,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+783,Error,03-10-2022 13:07,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {c18e736b-7169-423b-8cd7-49d1e240b908}"
+784,Error,03-10-2022 13:05,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {c18e736b-7169-423b-8cd7-49d1e240b908}"
+785,Error,03-10-2022 10:03,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+786,Error,03-10-2022 09:58,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+787,Error,03-10-2022 09:44,Application Error,1000,Application Crashing Events,"Faulting application name: WavesSysSvc64.exe, version: 1.55.4.0, time stamp: 0x618a55d2
+Faulting module name: WavesSysSvc64.exe, version: 1.55.4.0, time stamp: 0x618a55d2
+Exception code: 0xc0000005
+Fault offset: 0x0000000000033fea
+Faulting process id: 0x0xFB4
+Faulting application start time: 0x0x1D8D6DE8AF70AC1
+Faulting application path: C:\WINDOWS\System32\DriverStore\FileRepository\wavesapo11de.inf_amd64_6ef00ed1517c6ebe\WavesSysSvc64.exe
+Faulting module path: C:\WINDOWS\System32\DriverStore\FileRepository\wavesapo11de.inf_amd64_6ef00ed1517c6ebe\WavesSysSvc64.exe
+Report Id: 9e8e7e43-4622-46ff-bb4c-6eaa502c3c69
+Faulting package full name: 
+Faulting package-relative application ID: "
+788,Error,03-10-2022 09:43,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+789,Error,03-10-2022 09:43,Application Error,1000,Application Crashing Events,"Faulting application name: mfevtps.exe, version: 22.4.0.226, time stamp: 0x62544e14
+Faulting module name: CRYPT32.dll, version: 10.0.22621.382, time stamp: 0xf88e9ce4
+Exception code: 0xc0000005
+Fault offset: 0x0000000000021347
+Faulting process id: 0x0x1224
+Faulting application start time: 0x0x1D8D616823D62F4
+Faulting application path: C:\Windows\system32\mfevtps.exe
+Faulting module path: C:\WINDOWS\SYSTEM32\CRYPT32.dll
+Report Id: d2926ac6-c07f-420f-aa11-5d6f4346a827
+Faulting package full name: 
+Faulting package-relative application ID: "
+790,Error,03-10-2022 09:40,Microsoft-Windows-WindowsUpdateClient,20,Windows Update Agent,Installation Failure: Windows failed to install the following update with error 0x80073D02: 9NCBCSZSJRSB-SpotifyAB.SpotifyMusic.
+791,Error,03-10-2022 09:36,Microsoft-Windows-DistributedCOM,10010,None,The server {8CFC164F-4BE5-4FDD-94E9-E2AF73ED4A19} did not register with DCOM within the required timeout.
+792,Error,02-10-2022 17:49,Tcpip,4199,None,The system detected an address conflict for IP address 192.168.1.2 with the system having network hardware address CA-87-32-32-63-73. Network operations on this system may be disrupted as a result.
+793,Error,02-10-2022 11:14,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {395f5acc-2a15-457f-88af-1610ec639a06}"
+794,Error,02-10-2022 11:00,VSS,8194,None,"Volume Shadow Copy Service error: Unexpected error querying for the IVssWriterCallback interface.  hr = 0x80070005, Access is denied.
+. This is often caused by incorrect security settings in either the writer or requestor process. 
+
+Operation:
+   Gathering Writer Data
+
+Context:
+   Writer Class Id: {e8132975-6f93-4464-a53e-1050253ae220}
+   Writer Name: System Writer
+   Writer Instance ID: {395f5acc-2a15-457f-88af-1610ec639a06}"
+795,Error,02-10-2022 09:51,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."
+796,Error,01-10-2022 22:29,Service Control Manager,7022,None,The Fusion Service service hung on starting.
+797,Error,01-10-2022 22:27,Microsoft-Windows-MSDTC Client 2,4104,Cluster,Failed trying to get the state of the cluster node: .The error code returned: 0x8007085A
+798,Error,01-10-2022 22:27,Service Control Manager,7030,None,"The Printer Extensions and Notifications service is marked as an interactive service.  However, the system is configured to not allow interactive services.  This service may not function properly."
+799,Error,01-10-2022 22:26,Microsoft-Windows-MSDTC Client 2,4104,Cluster,Failed trying to get the state of the cluster node: .The error code returned: 0x8007085A
+800,Error,01-10-2022 22:26,Microsoft-Windows-MSDTC Client 2,4104,Cluster,Failed trying to get the state of the cluster node: .The error code returned: 0x8007085A
+801,Error,01-10-2022 22:26,Microsoft-Windows-MSDTC 2,4104,Cluster,Failed trying to get the state of the cluster node: .The error code returned: 0x8007085A
+802,Error,01-10-2022 22:26,Microsoft-Windows-MSDTC Client 2,4104,Cluster,Failed trying to get the state of the cluster node: .The error code returned: 0x8007085A
+803,Error,01-10-2022 22:24,Service Control Manager,7000,None,"The bfs service failed to start due to the following error: 
+Access is denied."

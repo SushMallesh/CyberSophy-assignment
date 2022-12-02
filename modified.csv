@@ -1,0 +1,11 @@
+,Level,Event ID,Date and Time,Source,Task Category
+802,Error,7000,01-10-2022 22:24,Service Control Manager,None
+798,Error,4104,01-10-2022 22:26,Microsoft-Windows-MSDTC Client 2,Cluster
+799,Error,4104,01-10-2022 22:26,Microsoft-Windows-MSDTC Client 2,Cluster
+800,Error,4104,01-10-2022 22:26,Microsoft-Windows-MSDTC 2,Cluster
+801,Error,4104,01-10-2022 22:26,Microsoft-Windows-MSDTC Client 2,Cluster
+796,Error,4104,01-10-2022 22:27,Microsoft-Windows-MSDTC Client 2,Cluster
+797,Error,7030,01-10-2022 22:27,Service Control Manager,None
+795,Error,7022,01-10-2022 22:29,Service Control Manager,None
+454,Error,7011,01-11-2022 10:22,Service Control Manager,None
+453,Error,4199,01-11-2022 12:32,Tcpip,None
